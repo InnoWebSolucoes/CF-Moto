@@ -155,3 +155,5 @@
   .rodape__grelha { grid-template-columns: repeat(6, 1fr); }
   .rodape__contacto { grid-column: 5 / span 2; }
 }
+.rodape__credito a { color: var(--branco); text-decoration: underline; text-underline-offset: 3px; transition: color var(--rapido); }
+@media (hover: hover) { .rodape__credito a:hover { color: var(--cinza-400); } }

@@ -124,6 +124,7 @@ const rodape = () => `
       <p>Representante oficial CFMOTO em Angola</p>
       <p>Imagens e especificações de referência; podem variar consoante o mercado.</p>
       <p>© ${new Date().getFullYear()} ${SITE}</p>
+      <p class="rodape__credito">Made by <a href="https://innoweb.agency" target="_blank" rel="noopener">Innoweb agency</a></p>
     </div>
   </footer>`;
 

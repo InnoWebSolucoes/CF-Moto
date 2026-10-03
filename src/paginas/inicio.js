@@ -141,7 +141,10 @@ const FOTOS = [
   'showroom-zforce-vermelho', 'zforce-por-do-sol', 'showroom-talatona', 'cliente-dual', 'zforce-poeira', 'showroom-bobber', 'capacete',
   'showroom-zforce-laranja', 'zforce-piloto', 'loja-entrada', 'showroom-zforce-preto', 'atv-rio', 'zforce-pneu', 'showroom-equipa',
   'zforce-bancos', 'showroom-zforce-4', 'zforce-traseira', 'showroom-zforce-laranja-34', 'zforce-laranja-detalhe', 'showroom-zforce-preto-frente',
+  '/img/modelos/450mt/galeria-1.webp',
 ];
+// Nome simples = fotografia do cliente em /img/angola/; caminho completo = outra imagem do site
+const fotoMosaico = (f) => (f.startsWith('/') ? f : `/img/angola/${f}.webp`);
 
 const comunidade = () => {
   const instagram = REDES.find((r) => r.nome === 'Instagram');
@@ -154,7 +157,7 @@ const comunidade = () => {
       </div>
       <div class="mosaico" data-mosaico>
         ${colunas.map((fotos, c) => `<div class="mosaico__coluna" data-onda="${[0, 8, 16, 24, 16, 8, 0][c]}">
-          ${fotos.map((f) => `<figure>${img({ src: `/img/angola/${f}.webp`, alt: '', largura: 600, altura: 900 })}</figure>`).join('')}
+          ${fotos.map((f) => `<figure>${img({ src: fotoMosaico(f), alt: '', largura: 600, altura: 900 })}</figure>`).join('')}
         </div>`).join('\n        ')}
       </div>
       <div class="comunidade__cta" data-revelar>

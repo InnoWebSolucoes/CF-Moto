@@ -73,9 +73,14 @@
 .vitrine__info { position: absolute; z-index: 2; top: calc(var(--topo) + 16px); left: var(--x); right: var(--x); max-width: 440px; pointer-events: none; }
 .vitrine__nome { font: 500 clamp(2.25rem, 1.8rem + 1.2vw, 2.625rem)/1.05 var(--fonte-display); letter-spacing: var(--tracking); }
 .vitrine__info .chips { margin-top: 14px; }
-.vitrine__palco { position: absolute; inset: 0; display: grid; place-items: center; padding: 30vh var(--x) 12vh; }
+/* A imagem ocupa a área livre entre o texto e os controlos, sem nunca passar do fundo da secção */
+.vitrine__palco {
+  position: absolute; inset: 0; display: grid;
+  grid-template-rows: minmax(0, 1fr); grid-template-columns: minmax(0, 1fr);
+  padding: calc(var(--topo) + 230px) var(--x) 132px;
+}
 .vitrine__img {
-  grid-area: 1 / 1; width: min(1180px, 100%); max-height: 100%; object-fit: contain;
+  grid-area: 1 / 1; justify-self: center; width: 100%; max-width: 1300px; height: 100%; object-fit: contain;
   opacity: 0; transform: scale(0.985); transition: opacity 1s var(--ease), transform 1.2s var(--ease-saida);
 }
 .vitrine__img.ativa { opacity: 1; transform: none; }
@@ -89,7 +94,7 @@
 }
 .cursor-pilula.visivel { opacity: 1; scale: 1; }
 @media (min-width: 1024px) {
-  .vitrine__palco { padding: 16vh var(--x) 6vh; }
+  .vitrine__palco { padding: calc(var(--topo) + 150px) var(--x) 40px; }
   .vitrine__alternador { left: auto; right: var(--x); top: calc(var(--topo) + 8px); bottom: auto; }
   .vitrine__setas { bottom: 60px; }
   .vitrine__palco { cursor: none; }
