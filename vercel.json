@@ -6,6 +6,10 @@
   "redirects": [
     { "source": "/", "destination": "/cfmoto/", "permanent": false }
   ],
+  "rewrites": [
+    { "source": "/cfmoto", "destination": "/cfmoto/index.html" },
+    { "source": "/cfmoto/:path*", "destination": "/cfmoto/:path*/index.html" }
+  ],
   "headers": [
     {
       "source": "/cfmoto/assets/(.*)",
