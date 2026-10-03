@@ -24,6 +24,11 @@ npm run preview    # serves the build
 | Contacts | `/cfmoto/contactos/` | Showroom, map, contact form (also via WhatsApp) |
 | Brand | `/cfmoto/sobre/` | CFMOTO history and CFMOTO Angola |
 
+## Where it lives
+
+- Public URL: https://innoweb.agency/cfmoto. The innoweb.agency Next.js project (`portavia-site`, repo InnoWebSolucoes/innoweb-agency) rewrites `/cfmoto` and `/cfmoto/*` to this project's Vercel deployment.
+- Vercel project `cfmoto-angola` (team innowebs-projects), connected to this repo. Every push to `main` deploys production at https://cfmoto-angola.vercel.app/cfmoto/.
+
 ## How it is built
 
 - Vite (multi-page), vanilla JS modules, GSAP (ScrollTrigger, CustomEase) and Lenis. No framework.
