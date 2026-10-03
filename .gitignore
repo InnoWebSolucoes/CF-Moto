@@ -1,0 +1,20 @@
+node_modules
+dist
+.DS_Store
+*.log
+.vite
+scratch/
+
+.vercel
+.env*
+
+# Páginas geradas por scripts/gerar-paginas.js (fonte em src/paginas)
+/index.html
+/motociclos/
+/atv/
+/utv/
+/ssv/
+/modelos/
+/test-ride/
+/contactos/
+/sobre/

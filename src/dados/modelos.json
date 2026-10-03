@@ -1,0 +1,5465 @@
+[
+ {
+  "slug": "1000mt-x",
+  "nome": "1000MT-X",
+  "categoria": "motociclos",
+  "familia": "Adventure",
+  "serie": "MT",
+  "ordem": 1,
+  "selo": "Novo modelo",
+  "slogan": "Vai além do mapa",
+  "descricao": [
+   "Nem todos os caminhos estão traçados. Alguns descobrem-se.",
+   "O som do motor. O horizonte sem fim. A liberdade de escolher o próximo desvio.",
+   "A 1000MT-X foi criada para esses momentos. Com um motor bicilíndrico de 946,2 cc, cerca de 112.8 cv e 105 Nm de binário, entrega potência com precisão, controlo e confiança em qualquer terreno.",
+   "Porque a verdadeira aventura não se planeia. Vive-se."
+  ],
+  "numeros": [
+   {
+    "valor": "946",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "113",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "222",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "105",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "4 + 1 Modos de condução",
+   "Iluminação Full-LED",
+   "Sistema de monitorização da pressão dos pneus",
+   "Amortecedor de direção",
+   "Controlo de tração ajustável",
+   "Jantes de raios",
+   "Roda dianteira 21″, roda traseira 18″",
+   "Quick-shifter bidirecional",
+   "MMI de 8 Polegadas",
+   "Assento e punhos aquecidos",
+   "ABS em curva",
+   "Depósito de 22,5 lt",
+   "Viseira ajustável manualmente",
+   "Cruise Control Eletrónico",
+   "Proteção de mãos"
+  ],
+  "recursos": [
+   {
+    "titulo": "Design Aventureiro",
+    "texto": "A sua frente empolgante e o seu tanque de gasolina colocado em posição baixa, revela o intuito para que a 1000 MTX foi desenhada: explorar o ainda inexplorável.",
+    "img": "/img/modelos/1000mt-x/recurso-1.webp"
+   },
+   {
+    "titulo": "Pronta para qualquer terreno",
+    "texto": "Equipada com suspensão invertida de 48 mm e 230 mm de curso, ajustável para qualquer terreno. O amortecedor traseiro, também com 230 mm de curso, oferece ajuste completo.",
+    "img": "/img/modelos/1000mt-x/recurso-2.webp"
+   },
+   {
+    "titulo": "Motor Equilibrado",
+    "texto": "A 1000MT-X conta com um motor bicilíndrico em linha de 946.2 cc, refrigerado a líquido e com injeção eletrônica. Compacto e potente, oferece torque forte e desempenho otimizado para médios e altos RPM, garantindo controle tanto na estrada quanto off-road.",
+    "img": "/img/modelos/1000mt-x/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC, 8 válvulas",
+    "Cilindrada": "946.2 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "92.5 × 70.4 mm",
+    "Potência máxima": "83 kW @ 8500 rpm",
+    "Binário máximo": "105 N.m @ 6250 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "13.5:1",
+    "Homologação": "L3e-A3 (Euro V+)"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/ Regulação Ø48 mm KYB\nTraseira: Mono-Amortecedor c/ Regulação KYB",
+    "Curso da Suspensão": "Frente: 230 mm (High Seat), 190 mm (Low Seat)\nTraseira: 230 mm (High Seat), 190 mm (Low Seat)",
+    "Travões": "Frente: Duplo disco Ø320 mm Brembo, pinças radiais\nTraseira: Monodisco Ø260 mm Brembo, pinça 1 pistão",
+    "Pneus": "Frente: 90/90 R21, Pirelli STR\nTraseira: 150/70 R18, Pirelli STR",
+    "Capacidade do Depósito": "22,5 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2330 × 936 × 1445 mm",
+    "Distância entre Eixos": "1530 mm",
+    "Distância ao solo": "200 mm (Low Seat) / 240 mm (High Seat)",
+    "Altura do assento": "830 mm (Low Seat) / 870 mm (High Seat)",
+    "Peso em Ordem de Marcha": "222 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/1000mt-x/cor-cinzento.webp"
+   },
+   {
+    "nome": "Verde",
+    "hex": "#4f6b3a",
+    "img": "/img/modelos/1000mt-x/cor-verde.webp"
+   }
+  ],
+  "recorte": "/img/modelos/1000mt-x/recorte.webp",
+  "ambiente": "/img/modelos/1000mt-x/ambiente.webp",
+  "galeria": [
+   "/img/modelos/1000mt-x/galeria-1.webp",
+   "/img/modelos/1000mt-x/galeria-2.webp",
+   "/img/modelos/1000mt-x/galeria-3.webp",
+   "/img/modelos/1000mt-x/galeria-4.webp"
+  ],
+  "youtube": "Q3LBhlJ3rnQ"
+ },
+ {
+  "slug": "800mt-es",
+  "nome": "800MT ES",
+  "categoria": "motociclos",
+  "familia": "Adventure",
+  "serie": "MT",
+  "ordem": 2,
+  "selo": "Novo modelo",
+  "slogan": "Chegou o futuro da aventura",
+  "descricao": [
+   "A aventura entra numa nova dimensão. A nova 800MT ES está equipada com um Sistema de Suspensão Inteligente, proporcionando um nível incomparável de conforto, controlo e confiança em qualquer tipo de terreno.",
+   "Com o sistema BOSCH Motorcycle Stability Control, uma IMU (Unidade de Medição Inercial) de 6 eixos e quatro modos de condução, adapta-se instantaneamente a qualquer condição. E graças ao cruise control, punhos e banco aquecidos, ecrã TFT inteligente de 8 polegadas e Sistema de Deteção por Radar, cada viagem torna-se mais confortável e intuitiva."
+  ],
+  "numeros": [
+   {
+    "valor": "799",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "91",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "231",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "75",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Sistema de Suspensão Inteligente",
+   "Pneus Michelin Anakee Adventure",
+   "Sistema de monitorização da pressão dos pneus",
+   "Jantes de raios",
+   "Amortecedor de direção",
+   "Barras de proteção",
+   "Proteção de cárter",
+   "Quick-shifter bidirecional",
+   "Punhos e assento aquecidos",
+   "Cruise Control Eletrónico",
+   "Roda dianteira 19″, roda traseira 17″",
+   "ABS em curva",
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "Sistema de travagem J.Juan",
+   "Proteção de mãos",
+   "Painel Multimedia 8”",
+   "Descanso central",
+   "Viseira ajustável manualmente",
+   "Embraiagem deslizante CF-SC",
+   "Suspensão invertida ajustável na dianteira e monoamortecedor traseiro KYB",
+   "Iluminação Full-LED"
+  ],
+  "recursos": [
+   {
+    "titulo": "Sistema de Suspensão Inteligente",
+    "texto": "O sistema de suspensão eletrónica SS combina 4 níveis de pré-carga, 3 níveis de amortecimento e controlo adaptativo em tempo real, ajustando-se automaticamente à carga, velocidade e condições do piso para garantir conforto, estabilidade e controlo em qualquer situação.\nAs funções Anti-Wheelie (controlo da elevação da roda dianteira) e Anti-Recoil (redução dos impactos de retorno da suspensão) contribuem para acelerações mais suaves, precisas e controladas.",
+    "img": "/img/modelos/800mt-es/recurso-1.webp"
+   },
+   {
+    "titulo": "Sistema de radar traseiro",
+    "texto": "Inovadora tecnologia com as funções de monitorização e aviso (deteção de ângulo morto, assistente de mudança de faixa e aviso de colisão traseiro) permitem melhorar a segurança da condução.",
+    "img": "/img/modelos/800mt-es/recurso-2.webp"
+   },
+   {
+    "titulo": "Bosch motorcycle stability control (MSC)",
+    "texto": "A IMU (Unidade de medição inercial) de 6 eixos fornece dados ao sistema BOSCH MSC, que gere o ABS em curva e o controlo de tração em tempo real para maximizar a aderência e a estabilidade.Controlo do binário do motor proporciona uma “melhor” tração e de entrega de potência, enquanto o Wheelie Control ajuda a manter a roda dianteira no solo. O resultado é uma condução mais segura e previsível, mesmo em condições exigentes.",
+    "img": "/img/modelos/800mt-es/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC, 8 válvulas,",
+    "Cilindrada": "799 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "88 mm x 65,7 mm",
+    "Potência máxima": "67 kW @ 9250 rpm",
+    "Binário máximo": "75 N·m @ 8000 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "12.7 : 1",
+    "Homologação": "L3e-A3/ L3e-A2 (Euro V+)"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação KYB\nTraseira: Mono-amortecedor c/regulação KYB",
+    "Curso da Suspensão": "Frente: 160mm\nTraseira: 150mm",
+    "Travões": "Frente: Duplo disco Φ 320 mm, pinças radiais de 4 pistões, JJUAN\nTraseira: Disco único Φ 260 mm, pinça de 2 pistões, JJUAN",
+    "Rodas": "Frente: 19″\nTraseira: 17″",
+    "Pneus": "Frente: 110/80 R19M/C 59V\nTraseira: 150/70 R17M/C 69V",
+    "Capacidade do Depósito": "19 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2234 × 853 × 1475 mm",
+    "Distância entre Eixos": "1531 mm",
+    "Distância ao solo": "190 mm",
+    "Altura do assento": "825 mm",
+    "Peso em ordem de marcha": "231 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/800mt-es/cor-branco.webp"
+   },
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/800mt-es/cor-azul.webp"
+   }
+  ],
+  "recorte": "/img/modelos/800mt-es/recorte.webp",
+  "ambiente": "/img/modelos/800mt-es/ambiente.webp",
+  "galeria": [
+   "/img/modelos/800mt-es/galeria-1.webp",
+   "/img/modelos/800mt-es/galeria-2.webp",
+   "/img/modelos/800mt-es/galeria-3.webp",
+   "/img/modelos/800mt-es/galeria-4.webp"
+  ],
+  "youtube": "HCDUXrQ154I"
+ },
+ {
+  "slug": "800mt-explore",
+  "nome": "800MT Explore",
+  "categoria": "motociclos",
+  "familia": "Adventure",
+  "serie": "MT",
+  "ordem": 3,
+  "selo": null,
+  "slogan": "Explorar sem limites",
+  "descricao": [
+   "A CFMOTO elevou ainda mais o patamar para 2023 ao introduzir o seu novo modelo topo de gama, a 800MT Explore.",
+   "Uma evolução do modelo 800MT Touring, a nova 800MT Explore apresenta uma combinação de atualizações técnicas projetadas para maximizar o conforto em viagens de longa distância, levando a experiência global do motociclista a novos patamares. Isso é possível graças à introdução de um avançado sistema de controle de tração, tecnologia de radar traseiro, um ecrã Multimédia de 8 polegadas, 6 novos modos de condução, ABS comutável na frente e na traseira, e novos pneus Michelin. Preparado para explorar o mundo?"
+  ],
+  "numeros": [
+   {
+    "valor": "799",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "91",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "231",
+    "unidade": "kg",
+    "rotulo": "Peso a seco"
+   },
+   {
+    "valor": "75",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Pneus Michelin Anakee Adventure",
+   "Sistema de monitorização da pressão dos pneus",
+   "Jantes de raios",
+   "Amortecedor de direção",
+   "Barras de proteção",
+   "Proteção de cárter",
+   "Quick-shifter bidirecional",
+   "Punhos e assento aquecidos",
+   "Cruise Control Eletrónico",
+   "Roda dianteira 19″, roda traseira 17″",
+   "ABS em curva",
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "Sistema de travagem J.Juan",
+   "Proteção de mãos",
+   "Descanso central",
+   "Viseira ajustável manualmente",
+   "Embraiagem deslizante CF-SC",
+   "Suspensão invertida ajustável na dianteira e monoamortecedor traseiro KYB",
+   "Iluminação Full-LED"
+  ],
+  "recursos": [
+   {
+    "titulo": "Sistema de radar traseiro",
+    "texto": "Inovadora tecnologia com as funções de monitorização e aviso (deteção de ângulo morto, assistente de mudança de faixa e aviso de colisão traseiro) permitem melhorar a segurança da condução.",
+    "img": "/img/modelos/800mt-explore/recurso-1.webp"
+   },
+   {
+    "titulo": "TFT a cores de 8”",
+    "texto": "Interface Multimédia (MMI) de 8 polegadas com ligação ao Apple CarPlay e CarbitLink. Além disso, o novo ecrã tátil suporta interação multimédia, conectividade Bluetooth, controlo por voz e fornece direções de navegação.",
+    "img": "/img/modelos/800mt-explore/recurso-2.webp"
+   },
+   {
+    "titulo": "6 modos de condução",
+    "texto": "Modos de condução integrados permitem adequar o desempenho da 800MT Explore às necessidades da condução, seja mais cautelosa, mais desportiva, em estrada ou offroad.",
+    "img": "/img/modelos/800mt-explore/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC, 8 válvulas,",
+    "Cilindrada": "799 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "88 mm x 65,7 mm",
+    "Potência máxima": "67 kW @ 9250 rpm",
+    "Binário máximo": "75 N·m @ 8000 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "12.7 : 1",
+    "Homologação": "Euro V"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação KYB\nTraseira: Mono-amortecedor c/regulação KYB",
+    "Curso da Suspensão": "Frente: 160mm\nTraseira: 150mm",
+    "Travões": "Frente: 2 discos flutuantes Ø320mm c/ pinças radial J.Juan\nTraseira: Monodisco flutuante Ø260mm J.Juan",
+    "Rodas": "Frente: 19″\nTraseira: 17″",
+    "Pneus": "Frente: 110/80 ZR19\nTraseira: 150/70 ZR17",
+    "Capacidade do Depósito": "19,2 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2234 × 853 × 1277 mm",
+    "Distância entre Eixos": "1531 mm",
+    "Distância ao solo": "190 mm",
+    "Altura do assento": "825 mm",
+    "Peso seco": "231 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/800mt-explore/cor-branco.webp"
+   },
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/800mt-explore/cor-preto.webp"
+   }
+  ],
+  "recorte": "/img/modelos/800mt-explore/recorte.webp",
+  "ambiente": "/img/modelos/800mt-explore/ambiente.webp",
+  "galeria": [
+   "/img/modelos/800mt-explore/galeria-1.webp",
+   "/img/modelos/800mt-explore/galeria-2.webp",
+   "/img/modelos/800mt-explore/galeria-3.webp",
+   "/img/modelos/800mt-explore/galeria-4.webp"
+  ],
+  "youtube": "ioouRZBKjAQ"
+ },
+ {
+  "slug": "800mt-x",
+  "nome": "800MT-X",
+  "categoria": "motociclos",
+  "familia": "Adventure",
+  "serie": "MT",
+  "ordem": 4,
+  "selo": null,
+  "slogan": "Nada ficará por explorar",
+  "descricao": [
+   "Seja em trilhos desafiantes ou no asfalto, a 800MT-X está sempre pronta para a aventura. Feita para os verdadeiros exploradores, leva-te além dos limites, por caminhos selvagens e recantos secretos. Nenhum destino é inalcançável."
+  ],
+  "numeros": [
+   {
+    "valor": "799",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "91",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "220",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "86",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "3 modos de condução",
+   "Iluminação Full-LED",
+   "Sistema de monitorização da pressão dos pneus",
+   "Amortecedor de direção",
+   "Controlo de tração",
+   "Jantes de raios",
+   "Roda dianteira 21″, roda traseira 18″",
+   "Quick-shifter bidirecional",
+   "TFT vertical de 7 Polegadas",
+   "Depósito de 22,5 lt",
+   "Viseira ajustável manualmente",
+   "Cruise Control Eletrónico",
+   "Proteção de mãos"
+  ],
+  "recursos": [
+   {
+    "titulo": "Design Aventureiro",
+    "texto": "A sua frente empolgante e o seu tanque de gasolina colocado em posição baixa, revela o intuito para que a 800 MTX foi desenhada: explorar o ainda inexplorável.",
+    "img": "/img/modelos/800mt-x/recurso-1.webp"
+   },
+   {
+    "titulo": "Pronta para qualquer terreno",
+    "texto": "Equipada com suspensão invertida de 48 mm e 230 mm de curso, ajustável para qualquer terreno. O amortecedor traseiro, também com 230 mm de curso, oferece ajuste completo.",
+    "img": "/img/modelos/800mt-x/recurso-2.webp"
+   },
+   {
+    "titulo": "Motor Equilibrado",
+    "texto": "A 800MT-X conta com um motor bicilíndrico em linha de 799 cc, refrigerado a líquido e com injeção eletrônica. Compacto e potente, oferece torque forte e desempenho otimizado para médios e altos RPM, garantindo controle tanto na estrada quanto off-road.",
+    "img": "/img/modelos/800mt-x/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC, 8 válvulas",
+    "Cilindrada": "799 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "88 × 65.7 mm",
+    "Potência máxima": "67 kW @ 8250 rpm",
+    "Binário máximo": "86 N.m @ 6500 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "12.7:1",
+    "Homologação": "Euro V+"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação Ø48 mm\nTraseira: Mono-amortecedor c/regulação",
+    "Curso da Suspensão": "Frente: 230 mm (high seat), 190 mm (low seat)\nTraseira: 230 mm (high seat), 190 mm (low seat)",
+    "Travões": "Frente: 2 Discos Flutuantes Ø320mm J. Juan\nTraseira: Monodisco Ø260mm J. Juan",
+    "Pneus": "Frente: 90/90 21\nTraseira: 150/70 R18",
+    "Capacidade do Depósito": "22 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2330 × 945 × 1446 mm",
+    "Distância entre Eixos": "1530 mm",
+    "Altura do assento": "830 mm/ 870 mm",
+    "Peso em Ordem de Marcha": "220 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/800mt-x/cor-preto.webp"
+   },
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/800mt-x/cor-azul.webp"
+   }
+  ],
+  "recorte": "/img/modelos/800mt-x/recorte.webp",
+  "ambiente": "/img/modelos/800mt-x/ambiente.webp",
+  "galeria": [
+   "/img/modelos/800mt-x/galeria-1.webp",
+   "/img/modelos/800mt-x/galeria-2.webp",
+   "/img/modelos/800mt-x/galeria-3.webp",
+   "/img/modelos/800mt-x/galeria-4.webp"
+  ],
+  "youtube": "sD4WuqMswYY"
+ },
+ {
+  "slug": "800mt-sport",
+  "nome": "800MT Sport",
+  "categoria": "motociclos",
+  "familia": "Adventure",
+  "serie": "MT",
+  "ordem": 5,
+  "selo": null,
+  "slogan": "Novas descobertas esperam por ti",
+  "descricao": [
+   "A rota a seguir nem sempre esta claramente definida. Em cada caminho, em cada curva desconhecida, novas descobertas te esperam. Por vezes não sabes por onde seguir, mas isso é o menos importante.",
+   "Imerge na liberdade, adrenalina intensa, emoções fortes. Cada dia será uma fonte de inspiração. E no final, o importante não é o fim da estrada mas para onde a tua mente te leva.",
+   "A CFMOTO 800MT redefine a tua bússola."
+  ],
+  "numeros": [
+   {
+    "valor": "799",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "91",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "231",
+    "unidade": "kg",
+    "rotulo": "Peso a seco"
+   },
+   {
+    "valor": "75",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Cruise Control Eletrónico",
+   "ABS em curva",
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "Sistema de travagem J.Juan",
+   "T-BOX",
+   "Embraiagem deslizante CF-SC",
+   "Pneus Tubless MAXXIS",
+   "Barras de proteção",
+   "Viseira ajustável manualmente",
+   "Mapas de potência com dois modos de condução integrados",
+   "19 litros de capacidade do depósito",
+   "Viseira ajustável manualmente",
+   "Suspensão invertida ajustável na dianteira e monoamortecedor traseiro KYB",
+   "Iluminação Full-LED",
+   "Jantes de raios (versão Euro V+)"
+  ],
+  "recursos": [
+   {
+    "titulo": "TFT a cores de 7”",
+    "texto": "Painel TFT com conexão Bluetooth para acessar recursos adicionais no smartphone do motociclista.",
+    "img": "/img/modelos/800mt-sport/recurso-1.webp"
+   },
+   {
+    "titulo": "Modos de condução",
+    "texto": "Mapas de potência com dois modos de condução integrados, permite adequar a potência às necessidades da condução, seja mais cautelosa ou mais desportiva.",
+    "img": "/img/modelos/800mt-sport/recurso-2.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC, 8 válvulas,",
+    "Cilindrada": "799 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "88 mm x 65,7 mm",
+    "Potência máxima": "67 kW @ 9250 rpm",
+    "Binário máximo": "75 N·m @ 8000 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "12.7 : 1",
+    "Homologação": "Euro V+ (nova versão com Jantes de raios)\nEuro V"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação KYB\nTraseira: Mono-amortecedor c/regulação KYB",
+    "Curso da Suspensão": "Frente: 160mm\nTraseira: 150mm",
+    "Travões": "Frente: 2 discos flutuantes Ø320mm c/ pinças radial J.Juan\nTraseira: Monodisco flutuante Ø240mm J.Juan",
+    "Rodas": "Frente: 19″\nTraseira: 17″",
+    "Pneus": "Frente: 110/80 ZR19\nTraseira: 150/70 ZR17",
+    "Capacidade do Depósito": "19 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2234 × 853 × 1277 mm",
+    "Distância entre Eixos": "1531 mm",
+    "Distância ao solo": "190 mm",
+    "Altura do assento": "825 mm",
+    "Peso seco": "231 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/800mt-sport/cor-azul.webp"
+   },
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/800mt-sport/cor-preto.webp"
+   }
+  ],
+  "recorte": "/img/modelos/800mt-sport/recorte.webp",
+  "ambiente": "/img/modelos/800mt-sport/ambiente.webp",
+  "galeria": [
+   "/img/modelos/800mt-sport/galeria-1.webp",
+   "/img/modelos/800mt-sport/galeria-2.webp",
+   "/img/modelos/800mt-sport/galeria-3.webp",
+   "/img/modelos/800mt-sport/galeria-4.webp"
+  ],
+  "youtube": "54vhyl3Eezg"
+ },
+ {
+  "slug": "700mt",
+  "nome": "700MT",
+  "categoria": "motociclos",
+  "familia": "Adventure",
+  "serie": "MT",
+  "ordem": 6,
+  "selo": null,
+  "slogan": "Molda-se aos teus dias",
+  "descricao": [
+   "A 700MT é expressão máxima da liberdade, perfeita para todas as horas. Uma companheira versátil do dia-a-dia que se adapta, sem vacilar, seja à condução em cidade ou em viagens mais desafiantes. A 700MT chegou, escolhe já o teu próximo destino."
+  ],
+  "numeros": [
+   {
+    "valor": "693",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "67",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "220",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "60",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "ABS de dois canais",
+   "Sistema de travagem J.Juan",
+   "18 litros de capacidade do depósito",
+   "Suspensão invertida ajustável na dianteira e monoamortecedor traseiro",
+   "Viseira ampla e refletores laterais",
+   "Iluminação Full-LED"
+  ],
+  "recursos": [
+   {
+    "titulo": "Motor",
+    "texto": "Poderoso motor bicilíndrico em linha com 693cc e de refrigeração líquida capaz de debitar uma potência máxima de 49kW às 8500 rpm permite enfrentar qualquer aventura com o máximo de desempenho.",
+    "img": "/img/modelos/700mt/recurso-1.webp"
+   },
+   {
+    "titulo": "Conectividade",
+    "texto": "O ecrã TFT de 5 polegadas permite uma projeção completa das informações necessárias para uma condução adequada da 700MT.",
+    "img": "/img/modelos/700mt/recurso-2.webp"
+   },
+   {
+    "titulo": "Estética agressiva",
+    "texto": "Design inovador permite aumentar a proteção aerodinâmica e a dissipação de calor do motor mantendo uma estética elegante. A utilização de luzes de linhas múltiplas tornam-na mais agressiva.",
+    "img": "/img/modelos/700mt/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC, 8 válvulas,",
+    "Cilindrada": "693 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "83 × 64 mm",
+    "Potência máxima": "49 kW @ 9000 rpm [Carta A2: 34kW @ 6000rpm]",
+    "Binário máximo": "60 N.m @ 7250 rpm [Carta A2: 54N.m @ 6000rpm]",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "11.6:1",
+    "Homologação": "Euro V"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Invertida\nTraseira: Mono Amortecedor Central",
+    "Curso da Suspensão": "Frente: 140mm\nTraseira: 145mm",
+    "Travões": "Frente: Duplo disco com pinça de 2 pistões, J.Juan\nTraseira: Disco, J.Juan",
+    "Pneus": "Frente: 120/70 R17\nTraseira: 160/60 R17",
+    "Capacidade do Depósito": "18 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2184 × 880 × 1438 mm",
+    "Distância entre Eixos": "1425 mm",
+    "Distância ao solo": "170 mm",
+    "Altura do assento": "820 mm",
+    "Peso em Ordem de Marcha": "220 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/700mt/cor-preto.webp"
+   },
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/700mt/cor-branco.webp"
+   }
+  ],
+  "recorte": "/img/modelos/700mt/recorte.webp",
+  "ambiente": "/img/modelos/700mt/ambiente.webp",
+  "galeria": [
+   "/img/modelos/700mt/galeria-1.webp",
+   "/img/modelos/700mt/galeria-2.webp",
+   "/img/modelos/700mt/galeria-3.webp",
+   "/img/modelos/700mt/galeria-4.webp"
+  ],
+  "youtube": "W8Xi7AfIP6c"
+ },
+ {
+  "slug": "700mt-adv",
+  "nome": "700MT ADV",
+  "categoria": "motociclos",
+  "familia": "Adventure",
+  "serie": "MT",
+  "ordem": 7,
+  "selo": null,
+  "slogan": "Um novo dia, uma nova aventura",
+  "descricao": [
+   "A nova 700MT ADV representa a verdadeira essência da liberdade, pronta para te acompanhar em qualquer momento. Com uma versatilidade impressionante, adapta-se sem esforço tanto à agilidade urbana como às aventuras mais desafiantes. A 700MT ADV chegou, escolhe já o teu próximo destino e parte à descoberta!"
+  ],
+  "numeros": [
+   {
+    "valor": "693",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "68",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "240",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "60",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Forte Inspiração do design aventureiro da gama MT",
+   "Vidro frontal ajustável manualmente",
+   "Rodas de aros em alumínio com pneus tubeless",
+   "ABS e Controlo de tração",
+   "Sensor de pressão dos pneus",
+   "Crash bars e apoio de malas originais de série",
+   "Punhos e Assento do condutor aquecidos",
+   "Forquilha frontal invertida de 43mm totalmente ajustável",
+   "Possibilidade de projeção Sistema de Navegação Google no ecrã",
+   "Portas USB tipo A e C para conexão e carregamento"
+  ],
+  "recursos": [
+   {
+    "titulo": "Design renovado",
+    "texto": "Inspirada na estética do modelo 800MT Explore, topo de gama da série MT, este novo modelo revela enormes qualidades para longas viagens e novas aventuras",
+    "img": "/img/modelos/700mt-adv/recurso-1.webp"
+   },
+   {
+    "titulo": "Motor",
+    "texto": "Poderoso motor bicilíndrico em linha com 693cc e de refrigeração líquida capaz de debitar uma potência máxima de 49kW às 8500 rpm permite enfrentar qualquer aventura com o máximo de desempenho.",
+    "img": "/img/modelos/700mt-adv/recurso-2.webp"
+   },
+   {
+    "titulo": "Ainda mais aventureira",
+    "texto": "Os novos aros de 19 polegadas na frente e de 17 polegadas atrás, realçam a vertente mais aventureira deste modelo.",
+    "img": "/img/modelos/700mt-adv/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC",
+    "Cilindrada": "693 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "83 × 64 mm",
+    "Potência máxima": "50 kW @ 9500 rpm",
+    "Binário máximo": "60 N.m @ 6000 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "11.6:1",
+    "Homologação": "Euro V+"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação Ø43 mm\nTraseira: Mono-amortecedor c/regulação",
+    "Curso da Suspensão": "Frente: 150 mm\nTraseira: 148 mm",
+    "Travões": "Frente: 2 Discos Flutuantes\nTraseira: Monodisco",
+    "Pneus": "Frente: 110/80 R19\nTraseira: 150/70 R17",
+    "Capacidade do Depósito": "20 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2245 × 955 × 1490 mm",
+    "Distância entre Eixos": "1445 mm",
+    "Distância ao solo": "170 mm",
+    "Altura do assento": "800 mm",
+    "Peso em Ordem de Marcha": "240 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/700mt-adv/cor-preto.webp"
+   },
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/700mt-adv/cor-branco.webp"
+   }
+  ],
+  "recorte": "/img/modelos/700mt-adv/recorte.webp",
+  "ambiente": "/img/modelos/700mt-adv/ambiente.webp",
+  "galeria": [
+   "/img/modelos/700mt-adv/galeria-1.webp",
+   "/img/modelos/700mt-adv/galeria-2.webp",
+   "/img/modelos/700mt-adv/galeria-3.webp",
+   "/img/modelos/700mt-adv/galeria-4.webp"
+  ],
+  "youtube": "cNkmhY-wsYg"
+ },
+ {
+  "slug": "450mt",
+  "nome": "450MT",
+  "categoria": "motociclos",
+  "familia": "Adventure",
+  "serie": "MT",
+  "ordem": 8,
+  "selo": "Novas cores",
+  "slogan": "Uma nova forma de viver a aventura",
+  "descricao": [
+   "Desperta o espírito aventureiro que há em ti com a 450MT da CFMOTO. Esta moto foi idealizada para desafiar os limites da estrada, levando-te a explorar terrenos desconhecidos e a descobrir a verdadeira liberdade sobre duas rodas. Com a sua resistência extra e capacidade multiterreno, a 450MT é o parceiro perfeito para as tuas aventuras mais ousadas. Combinando potência, torque e versatilidade, esta máquina está pronta para enfrentar qualquer desafio que se apresente. Sente a emoção de viajar sem limites, uma nova forma de viver a aventura. (Disponível em 2 versões, pára-lamas alto e baixo)"
+  ],
+  "numeros": [
+   {
+    "valor": "449",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "42",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "175",
+    "unidade": "kg",
+    "rotulo": "Peso a seco"
+   },
+   {
+    "valor": "42",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Design pelo gabinete Kiska",
+   "Ângulo Cambota de 270º",
+   "Pneus Tubeless",
+   "Embraiagem deslizante",
+   "Écran TFT 5 polegadas e T-BOX de série",
+   "Depósito combustível de 17,5 litros",
+   "ABS de dois canais comutável e controlo de tração Bosch",
+   "Iluminação Full LED",
+   "Sistema de travagem J.Juan"
+  ],
+  "recursos": [
+   {
+    "titulo": "Preparada para os mais duros desafios",
+    "texto": "roda dianteira de 21 polegadas e uma roda traseira de 18 polegadas (Pneus Tubeless).",
+    "img": "/img/modelos/450mt/recurso-1.webp"
+   },
+   {
+    "titulo": "Tecnologia e segurança",
+    "texto": "Sistema de controle de tração (TCS) comutável no painel e sistema de ABS comutável na roda de trás através de um botão no guiador.",
+    "img": "/img/modelos/450mt/recurso-2.webp"
+   },
+   {
+    "titulo": "Sem limites para a aventura",
+    "texto": "Depósito de gasolina com 17,5Lt de capacidade, preparada para longas aventura.",
+    "img": "/img/modelos/450mt/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC",
+    "Cilindrada": "449 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "72 × 55.2 mm",
+    "Potência máxima": "31 kW @ 8500 rpm",
+    "Binário máximo": "42 N·m @ 6500 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Homologação": "L3e-A2 (Euro V+)"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica Ø41mm c/regulação KYB\nTraseira: Mono-amortecedor c/regulação KYB",
+    "Travões": "Frente: Disco Ø320mm J. Juan\nTraseira: Disco Ø240 mm J. Juan",
+    "Pneus": "Frente: 90/90 R21\nTraseira: 140/70 R18",
+    "Capacidade do Depósito": "17,5 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2210 × 870 × 1430 mm",
+    "Distância entre Eixos": "1505 mm",
+    "Distância ao solo": "220 mm",
+    "Altura do assento": "820/800 mm",
+    "Peso seco": "175 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/450mt/cor-azul.webp"
+   },
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/450mt/cor-preto.webp"
+   }
+  ],
+  "recorte": "/img/modelos/450mt/recorte.webp",
+  "ambiente": "/img/modelos/450mt/ambiente.webp",
+  "galeria": [
+   "/img/modelos/450mt/galeria-1.webp",
+   "/img/modelos/450mt/galeria-2.webp",
+   "/img/modelos/450mt/galeria-3.webp",
+   "/img/modelos/450mt/galeria-4.webp"
+  ],
+  "youtube": "IGKd031cQjw"
+ },
+ {
+  "slug": "250dual",
+  "nome": "250DUAL",
+  "categoria": "motociclos",
+  "familia": "Adventure",
+  "serie": "DUAL",
+  "ordem": 9,
+  "selo": "Novo modelo",
+  "slogan": "Pronta para todos os caminhos",
+  "descricao": [
+   "Económica e versátil! Criada para acompanhar o teu dia a dia com conforto e confiança.",
+   "Inspirada no espírito adventure da CFMOTO, oferece uma condução estável e precisa, tanto na cidade como nos percursos mais desafiantes."
+  ],
+  "numeros": [
+   {
+    "valor": "249",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "24",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "151",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "22",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "ABS",
+   "Iluminação Full LED",
+   "LCD com indicadores de nível de combustível, de mudança engrenada, odómetro, velocidade e hora",
+   "Jantes de raios",
+   "12,5 litros de capacidade do depósito"
+  ],
+  "recursos": [
+   {
+    "titulo": "Sistema travagem ABS",
+    "texto": "Segurança nas travagens de emergência ou em pavimento molhado graças ao sistema antibloqueio.",
+    "img": "/img/modelos/250dual/recurso-1.webp"
+   },
+   {
+    "titulo": "Iluminação Full LED",
+    "texto": "A iluminação totalmente LED oferece um melhor campo de visão e tornar a condução mais segura.",
+    "img": "/img/modelos/250dual/recurso-2.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, DOHC, 4 tempos",
+    "Cilindrada": "249 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "72 × 61.2 mm",
+    "Potência máxima": "18 kW @ 9250 rpm",
+    "Binário máximo": "22.5 N.m @ 7000 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "11.3:1",
+    "Homologação": "L3e-A2 (Euro V+)"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha telescópica Ø37mm invertida\nTraseira: Mono-amortecedor, alinhado ao centro",
+    "Curso da Suspensão": "Frente: 160mm\nTraseira: 38mm",
+    "Travões": "Frente: Disco simples Ø265 mm, pinça flutuante de duplo pistão\nTraseira: Disco simples Ø220 mm, pinça de pistão simples",
+    "Pneus": "Frente: 80/100-21M/C 51P\nTraseira: 120/80-18M/C 62P",
+    "Capacidade do Depósito": "12.5 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2115 x 910 x 1220 mm",
+    "Distância entre Eixos": "1412 mm",
+    "Distância ao solo": "245 mm",
+    "Altura do assento": "840 mm",
+    "Peso em ordem de marcha": "151 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/250dual/cor-branco.webp"
+   },
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/250dual/cor-cinzento.webp"
+   }
+  ],
+  "recorte": "/img/modelos/250dual/recorte.webp",
+  "ambiente": "/img/modelos/250dual/ambiente.webp",
+  "galeria": [
+   "/img/modelos/250dual/galeria-1.webp",
+   "/img/modelos/250dual/galeria-2.webp",
+   "/img/modelos/250dual/galeria-3.webp",
+   "/img/modelos/250dual/galeria-4.webp"
+  ],
+  "youtube": "ZMSu9ZH-CWc"
+ },
+ {
+  "slug": "800nk",
+  "nome": "800NK",
+  "categoria": "motociclos",
+  "familia": "Naked",
+  "serie": "NK",
+  "ordem": 10,
+  "selo": null,
+  "slogan": "Nascida para dominar",
+  "descricao": [
+   "Carácter e design desportivo. Com um motor bicilíndrico com refrigeração líquida e transmissão de seis velocidades, poderás sentir toda a potência dos da 800NK. Uma naked para ser desfrutada ao máximo tanto em estrada como na cidade onde poderás aproveitar toda a sua agilidade."
+  ],
+  "numeros": [
+   {
+    "valor": "799",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "95",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "189",
+    "unidade": "kg",
+    "rotulo": "Peso a seco"
+   },
+   {
+    "valor": "81",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Pneus MAXXIS de alta performance",
+   "Amortecedor de direção",
+   "Quick-shifter bidirecional",
+   "Cruise Control Eletrónico",
+   "Roda dianteira 17″, roda traseira 17″",
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "Sistema de travagem J.Juan",
+   "Embraiagem deslizante CF-SC",
+   "Suspensão invertida ajustável na dianteira e monoamortecedor traseiro KYB",
+   "Iluminação Full-LED"
+  ],
+  "recursos": [
+   {
+    "titulo": "3 modos de condução",
+    "texto": "Modos de condução integrados (Street, Rain e Sport) permitem adequar o desempenho da 800NK às necessidades da condução, seja mais cautelosa ou mais desportiva.",
+    "img": "/img/modelos/800nk/recurso-1.webp"
+   },
+   {
+    "titulo": "TFT a cores de 8”",
+    "texto": "Interface Multimédia (MMI) de 8 polegadas com ligação ao Apple CarPlay e CarbitLink. Além disso, o novo ecrã tátil suporta interação multimédia, conectividade Bluetooth, controlo por voz e fornece direções de navegação.",
+    "img": "/img/modelos/800nk/recurso-2.webp"
+   },
+   {
+    "titulo": "Sistema Keyless",
+    "texto": "Conveniência e segurança sem chave. Acesso e ignição do veículo sem usar a chave física, apenas com a proximidade.",
+    "img": "/img/modelos/800nk/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC, 8 válvulas,",
+    "Cilindrada": "799 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "88 × 65.7 mm",
+    "Potência máxima": "70 kW @ 9500 rpm",
+    "Binário máximo": "81 N·m @ 8000 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "12.7 : 1",
+    "Homologação": "Euro V"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação KYB\nTraseira: Mono-amortecedor c/regulação KYB",
+    "Curso da Suspensão": "Frente: 130 mm\nTraseira: 130 mm",
+    "Travões": "Frente: 2 Discos flutuantes Ø320mm c/pinças 2 embolos J. Juan\nTraseira: Monodisco Ø260 mm J. Juan",
+    "Pneus": "Frente: 120/60 R17 Maxxis\nTraseira: 180/55 R17 Maxxis",
+    "Capacidade do Depósito": "15 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2132 × 810 × 1158 mm",
+    "Distância entre Eixos": "1468 mm",
+    "Distância ao solo": "150mm",
+    "Altura do assento": "800mm / 820mm",
+    "Peso seco": "189 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/800nk/cor-branco.webp"
+   },
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/800nk/cor-preto.webp"
+   }
+  ],
+  "recorte": "/img/modelos/800nk/recorte.webp",
+  "ambiente": "/img/modelos/800nk/ambiente.webp",
+  "galeria": [
+   "/img/modelos/800nk/galeria-1.webp",
+   "/img/modelos/800nk/galeria-2.webp",
+   "/img/modelos/800nk/galeria-3.webp",
+   "/img/modelos/800nk/galeria-4.webp"
+  ],
+  "youtube": "YhPncxCnUGU"
+ },
+ {
+  "slug": "675nk-champion-blue",
+  "nome": "675NK Champion Blue",
+  "categoria": "motociclos",
+  "familia": "Naked",
+  "serie": "NK",
+  "ordem": 11,
+  "selo": null,
+  "slogan": "Champion blue",
+  "descricao": [
+   "Com a exclusiva pintura da equipa CFMOTO Racing, esta edição especial combina uma imagem mais agressiva e desportiva com a performance do motor de três cilindros e 675 cc.",
+   "Esta edição está disponível numa única opção de cor e partilha toda a base técnica da 675NK.",
+   "Acessível a portadores de carta de condução da categoria A2."
+  ],
+  "numeros": [
+   {
+    "valor": "675",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "90",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "189",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "68",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Novo Geração motor tricilíndrico de 66 KW",
+   "Iluminação Full LED",
+   "Design pelo estúdio italiano Modena 40",
+   "Sistema de Navegação Motoplay através de projeção",
+   "Ligação à APP CFMOTO Ride",
+   "Atualizações automáticas através da TBOX (OTA, Over the Air)",
+   "QuickShift unidirecional",
+   "Suspensão KYB de 41 mm, invertida na frente e mono amortecedor atrás",
+   "Capacidade de depósito de gasolina de 15L",
+   "Portas USB tipo A e C para conexão e carregamento"
+  ],
+  "recursos": [
+   {
+    "titulo": "Decoração Champion blue",
+    "texto": "A 675NK Champion blue apresenta a decoração oficial da equipa CFMOTO Racing, que participa nos campeonatos do mundo de Moto2 e Moto3. Esta edição está disponível numa única opção de cor e partilha toda a base técnica da 675NK.",
+    "img": "/img/modelos/675nk-champion-blue/recurso-1.webp"
+   },
+   {
+    "titulo": "Novo motor de 3 Cilindros e 90 cv",
+    "texto": "A mais recente plataforma de motor oferece desempenho puro. O motor de três cilindros em linha de 675cc da CFMOTO proporciona uma explosão de sensações, enquanto o quickshifter permite trocas rápidas, otimizando a experiência de condução.",
+    "img": "/img/modelos/675nk-champion-blue/recurso-2.webp"
+   },
+   {
+    "titulo": "Condução simplificada",
+    "texto": "Suspensões KYB reguláveis à frente e atrás, para adaptar o comportamento da moto ao teu estilo de condução. Sistema de travagem J.Juan com dois discos, ABS de série e controlo de tração regulável em três níveis.",
+    "img": "/img/modelos/675nk-champion-blue/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Tricilíndrico, DOHC",
+    "Cilindrada": "675 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "72 × 55.2 mm",
+    "Potência máxima": "66 kW @ 11000 rpm",
+    "Binário máximo": "68 N.m @ 8250 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Homologação": "L3e-A3/ L3e-A2 (Euro V+)"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação Ø41mm, KYB\nTraseira: Mono-amortecedor central c/regulação, KYB",
+    "Curso da Suspensão": "Frente: 130 mm\nTraseira: 130 mm",
+    "Travões": "Frente: Duplo disco frontal de 300mm e pinças radiais de 4 pistões\nTraseira: Monodisco Ø240 mm J. Juan",
+    "Pneus": "Frente: 120/70 R17\nTraseira: 180/55 R17",
+    "Capacidade do Depósito": "15 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2020 x 849 x 1155 mm",
+    "Distância entre Eixos": "1400 mm",
+    "Altura do assento": "810 mm",
+    "Peso em ordem de marcha": "189 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/675nk-champion-blue/cor-azul.webp"
+   }
+  ],
+  "recorte": "/img/modelos/675nk-champion-blue/recorte.webp",
+  "ambiente": "/img/modelos/675nk-champion-blue/ambiente.webp",
+  "galeria": [
+   "/img/modelos/675nk-champion-blue/galeria-1.webp",
+   "/img/modelos/675nk-champion-blue/galeria-2.webp",
+   "/img/modelos/675nk-champion-blue/galeria-3.webp",
+   "/img/modelos/675nk-champion-blue/galeria-4.webp"
+  ],
+  "youtube": null
+ },
+ {
+  "slug": "675nk",
+  "nome": "675NK",
+  "categoria": "motociclos",
+  "familia": "Naked",
+  "serie": "NK",
+  "ordem": 12,
+  "selo": null,
+  "slogan": "A evolução",
+  "descricao": [
+   "A 675NK representa a evolução da série NK, elevando o conceito das naked desportivas a um novo patamar. Com a sua plataforma de três cilindros e 675cc, alia potência e eficiência a um quadro compacto, leve e robusto.",
+   "Disponível em branco e cinzento, a 675NK é mais do que uma moto: é uma afirmação audaciosa de engenharia avançada para uma experiência de condução emocionante."
+  ],
+  "numeros": [
+   {
+    "valor": "675",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "90",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "189",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "68",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Novo Geração motor tricilíndrico de 66 KW",
+   "Iluminação Full LED",
+   "Design pelo estúdio italiano Modena 40",
+   "Sistema de Navegação Motoplay através de projeção",
+   "Ligação à APP CFMOTO Ride",
+   "Atualizações automáticas através da TBOX (OTA, Over the Air)",
+   "QuickShift unidirecional",
+   "Suspensão KYB de 41 mm, invertida na frente e mono amortecedor atrás",
+   "Capacidade de depósito de gasolina de 15L",
+   "Portas USB tipo A e C para conexão e carregamento"
+  ],
+  "recursos": [
+   {
+    "titulo": "Novo motor de 3 Cilindros e 90 cv",
+    "texto": "A mais recente plataforma de motor oferece desempenho puro. O motor de três cilindros em linha de 675cc da CFMOTO proporciona uma explosão de sensações, enquanto o quickshifter permite trocas rápidas, otimizando a experiência de condução.",
+    "img": "/img/modelos/675nk/recurso-1.webp"
+   },
+   {
+    "titulo": "Design Irresistível",
+    "texto": "As linhas aerodinâmicas e o assento espaçoso garantem conforto, permitindo ajustes fáceis na postura e reduzindo a resistência ao vento. O icónico sistema de iluminação não só melhora a aparência, como também oferece um brilho impressionante.",
+    "img": "/img/modelos/675nk/recurso-2.webp"
+   },
+   {
+    "titulo": "A naked perfeita",
+    "texto": "Leve e equilibrada, a 675NK apresenta suspensões ajustáveis para uma estabilidade e manuseio ideais, garantindo uma condução direta e segura, com o seu potente sistema de travagem ventilado",
+    "img": "/img/modelos/675nk/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Tricilíndrico, DOHC",
+    "Cilindrada": "675 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "72 × 55.2 mm",
+    "Potência máxima": "66 kW @ 11000 rpm",
+    "Binário máximo": "68 N.m @ 8250 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Homologação": "L3e-A3/ L3e-A2 (Euro V+)"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação Ø41mm, KYB\nTraseira: Mono-amortecedor central c/regulação, KYB",
+    "Curso da Suspensão": "Frente: 130 mm\nTraseira: 130 mm",
+    "Travões": "Frente: Duplo disco frontal de 300mm e pinças radiais de 4 pistões\nTraseira: Monodisco Ø240 mm J. Juan",
+    "Pneus": "Frente: 120/70 R17\nTraseira: 180/55 R17",
+    "Capacidade do Depósito": "15 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2020 x 849 x 1155 mm",
+    "Distância entre Eixos": "1400 mm",
+    "Altura do assento": "810 mm",
+    "Peso em ordem de marcha": "189 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/675nk/cor-cinzento.webp"
+   },
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/675nk/cor-branco.webp"
+   }
+  ],
+  "recorte": "/img/modelos/675nk/recorte.webp",
+  "ambiente": "/img/modelos/675nk/ambiente.webp",
+  "galeria": [
+   "/img/modelos/675nk/galeria-1.webp",
+   "/img/modelos/675nk/galeria-2.webp",
+   "/img/modelos/675nk/galeria-3.webp",
+   "/img/modelos/675nk/galeria-4.webp"
+  ],
+  "youtube": "v2kim33AK0w"
+ },
+ {
+  "slug": "650nk",
+  "nome": "650NK",
+  "categoria": "motociclos",
+  "familia": "Naked",
+  "serie": "NK",
+  "ordem": 13,
+  "selo": null,
+  "slogan": "Leva-te ainda mais longe",
+  "descricao": [
+   "Equipada com um motor de 649cc de 2 cilindros e uma caixa de 6 velocidades para extrair o melhor do motor, a 650NK é perfeita tanto para viagens em cidade como em autoestrada, sendo uma excelente primeira experiência para os que estão a dar os primeiros passos nas motos de média-alta cilindrada."
+  ],
+  "numeros": [
+   {
+    "valor": "649",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "56",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "206",
+    "unidade": "kg",
+    "rotulo": "Peso a seco"
+   },
+   {
+    "valor": "56",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "ABS de dois canais",
+   "Sistema de travagem J.Juan",
+   "T-BOX",
+   "Painel TFT 5” com indicadores de nível de combustível, de mudança engrenada, odómetro, velocidade e hora",
+   "Iluminação Full-LED",
+   "Mapas de potência com dois modos de condução integrados",
+   "17 litros de capacidade do depósito",
+   "Suspensão invertida ajustável na dianteira e monoamortecedor traseiro",
+   "Desenhado pela equipa de design austríaca Kiska"
+  ],
+  "recursos": [
+   {
+    "titulo": "Sistema travagem ABS",
+    "texto": "Segurança nas travagens de emergência ou em pavimento molhado graças ao sistema antibloqueio.",
+    "img": "/img/modelos/650nk/recurso-1.webp"
+   },
+   {
+    "titulo": "TFT a cores de 5”",
+    "texto": "Painel com indicadores de nível de combustível, de mudança engrenada, odómetro, velocidade e hora",
+    "img": "/img/modelos/650nk/recurso-2.webp"
+   },
+   {
+    "titulo": "Iluminação Full LED",
+    "texto": "A iluminação totalmente LED oferece um melhor campo de visão e tornar a condução mais segura.",
+    "img": "/img/modelos/650nk/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC, 8 válvulas,",
+    "Cilindrada": "649.3 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "83 × 60 mm",
+    "Potência máxima": "41.5 kW @ 8250 rpm",
+    "Binário máximo": "56 N·m @ 7000 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "11.3 : 1",
+    "Homologação": "Euro V"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação KYB\nTraseira: Mono-amortecedor c/regulação KYB",
+    "Curso da Suspensão": "Frente: 120mm\nTraseira: 145mm",
+    "Travões": "Frente: 2 Discos flutuantes Ø300mm c/pinças 2 embolos J. Juan\nTraseira: Monodisco Ø240 mm J. Juan",
+    "Rodas": "Frente: 3.5 × 17 MT\nTraseira: 4.5 × 17 MT",
+    "Pneus": "Frente: 120/70 ZR17\nTraseira: 160/60 ZR17",
+    "Capacidade do Depósito": "17 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2114 × 750 × 1100 mm",
+    "Distância entre Eixos": "1415 mm",
+    "Distância ao solo": "150mm",
+    "Altura do assento": "780 mm",
+    "Peso seco": "206 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/650nk/cor-branco.webp"
+   },
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/650nk/cor-preto.webp"
+   }
+  ],
+  "recorte": "/img/modelos/650nk/recorte.webp",
+  "ambiente": "/img/modelos/650nk/ambiente.webp",
+  "galeria": [
+   "/img/modelos/650nk/galeria-1.webp",
+   "/img/modelos/650nk/galeria-2.webp",
+   "/img/modelos/650nk/galeria-3.webp",
+   "/img/modelos/650nk/galeria-4.webp"
+  ],
+  "youtube": "MdCWz03zF-I"
+ },
+ {
+  "slug": "450nk",
+  "nome": "450NK",
+  "categoria": "motociclos",
+  "familia": "Naked",
+  "serie": "NK",
+  "ordem": 14,
+  "selo": null,
+  "slogan": "Ferozmente urbana",
+  "descricao": [
+   "A 450NK chama atenção por onde quer que passe, é provavelmente a moto mais atraente do seu segmento. Prática, ágil, fácil e agradável de conduzir, a 450NK é perfeita para enfrentar a selva urbana e curvas acentuadas. O seu ecrã TFT a cores de 5″ garante uma interação e controlo totais. Tal como a sua variante desportiva 450SR, chegou para redefinir o conceito das motos de média cilindrada. Preparado?"
+  ],
+  "numeros": [
+   {
+    "valor": "449",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "47",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "165",
+    "unidade": "kg",
+    "rotulo": "Peso a seco"
+   },
+   {
+    "valor": "39",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Design pelo gabinete italiano Modena 40",
+   "Ângulo Cambota de 270º",
+   "Pode atingir cerca de 180 km/h",
+   "Moto leve e ágil (165KG)",
+   "Sistema de controlo de tração de série",
+   "Embraiagem deslizante",
+   "Pneus CST de alta performance",
+   "Écran TFT 5 polegadas e T-BOX de série",
+   "Disco frontal de 320mm e ABS de série garantem uma maior segurança",
+   "Iluminação Full LED",
+   "Sistema de travagem J.Juan"
+  ],
+  "recursos": [
+   {
+    "titulo": "Controlo de Tração",
+    "texto": "O sistema de controlo de tração melhora a aderência da 450NK em superfícies escorregadias e aumenta a segurança, podendo evitar acidentes devido ao deslizamento da roda traseira.",
+    "img": "/img/modelos/450nk/recurso-1.webp"
+   },
+   {
+    "titulo": "Conectividade",
+    "texto": "O ecrã TFT de 5 polegadas permite uma projeção completa das informações necessárias para uma condução adequada da 450NK.",
+    "img": "/img/modelos/450nk/recurso-2.webp"
+   },
+   {
+    "titulo": "Agilidade",
+    "texto": "Com a 450NK a primeira impressão que vais ter é: facilidade. O seu peso de apenas 165 kg aliado ao design proporcionam excelente maneabilidade. A qualidade de construção da caixa permite trocas de velocidades suaves e precisas.",
+    "img": "/img/modelos/450nk/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC",
+    "Cilindrada": "449 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "72 × 55.2 mm",
+    "Potência máxima": "34.5 kW @ 10000 rpm",
+    "Binário máximo": "39,3 N·m @ 7750 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Homologação": "Euro V"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha invertida\nTraseira: Mono-amortecedor central",
+    "Travões": "Frente: Disco Ø320mm c/pinça radial J. Juan\nTraseira: Disco Ø220 mm",
+    "Pneus": "Frente: 110/70-R17（CST AS5）\nTraseira: 150/60-R17（CST AS5）",
+    "Capacidade do Depósito": "14 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2000 × 810 × 1130 mm",
+    "Distância entre Eixos": "1370 mm",
+    "Distância ao solo": "192mm",
+    "Altura do assento": "795mm",
+    "Peso seco": "165 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/450nk/cor-preto.webp"
+   },
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/450nk/cor-branco.webp"
+   },
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/450nk/cor-azul.webp"
+   }
+  ],
+  "recorte": "/img/modelos/450nk/recorte.webp",
+  "ambiente": "/img/modelos/450nk/ambiente.webp",
+  "galeria": [
+   "/img/modelos/450nk/galeria-1.webp",
+   "/img/modelos/450nk/galeria-2.webp",
+   "/img/modelos/450nk/galeria-3.webp",
+   "/img/modelos/450nk/galeria-4.webp"
+  ],
+  "youtube": "K_s_kbClCKM"
+ },
+ {
+  "slug": "300nk",
+  "nome": "300NK",
+  "categoria": "motociclos",
+  "familia": "Naked",
+  "serie": "NK",
+  "ordem": 15,
+  "selo": null,
+  "slogan": "Dita o teu ritmo",
+  "descricao": [
+   "A 300NK é uma moto leve e ágil, alimentada por um enérgico motor monocilíndrico de 4 válvulas, que oferece uma relação excelente entre torque, aceleração e consumo de combustível. É desportiva e fácil de manusear. Com melhorias técnicas adicionais que se refletem na potência e na suavidade com que se desloca. A 300NK é uma moto que te dá a facilidade em colocar o pé no chão em qualquer semáforo vermelho e reage rapidamente no momento em que este se torna verde, tudo isto a um preço imbatível."
+  ],
+  "numeros": [
+   {
+    "valor": "298",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "30",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "151",
+    "unidade": "kg",
+    "rotulo": "Peso a seco"
+   },
+   {
+    "valor": "26",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "ABS de dois canais",
+   "Iluminação Full LED",
+   "Painel TFT 5” com indicadores de nível de combustível, de mudança engrenada, odómetro, velocidade e hora",
+   "Mapas de potência com dois modos de condução integrados",
+   "Jantes de liga leve",
+   "12,5 litros de capacidade do depósito",
+   "Desenhado pela equipa de design austríaca Kiska",
+   "T-BOX"
+  ],
+  "recursos": [
+   {
+    "titulo": "TFT a cores de 5”",
+    "texto": "Painel com indicadores de nível de combustível, de mudança engrenada, odómetro, velocidade e hora.",
+    "img": "/img/modelos/300nk/recurso-1.webp"
+   },
+   {
+    "titulo": "Sistema travagem ABS",
+    "texto": "Segurança nas travagens de emergência ou em pavimento molhado graças ao sistema antibloqueio.",
+    "img": "/img/modelos/300nk/recurso-2.webp"
+   },
+   {
+    "titulo": "Iluminação Full LED",
+    "texto": "A iluminação totalmente LED oferece um melhor campo de visão e tornar a condução mais segura.",
+    "img": "/img/modelos/300nk/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, DOHC, 4 válvulas",
+    "Cilindrada": "298 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "62,4 × 78 mm",
+    "Potência máxima": "22 kW @ 10000 rpm",
+    "Binário máximo": "26.0 N·m @ 6000 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "11 : 1",
+    "Homologação": "Euro V+"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica Ø37mm\nTraseira: Mono-amortecedor",
+    "Curso da Suspensão": "Frente: 120mm\nTraseira: 146mm",
+    "Travões": "Frente: Monodisco Ø292mm hidráulico c/pinças 4 embolos\nTraseira: Monodisco Flutuante Ø220mm hidráulico",
+    "Rodas": "Frente: 3.5 × 17 MT\nTraseira: 4.0 × 17 MT",
+    "Pneus": "Frente: 110/70 R17\nTraseira: 140/60 R17",
+    "Capacidade do Depósito": "12.5 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "1990 × 780 × 1070 mm",
+    "Distância entre Eixos": "1360 mm",
+    "Distância ao solo": "150 mm",
+    "Altura do assento": "795 mm",
+    "Peso seco": "151 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/300nk/cor-preto.webp"
+   },
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/300nk/cor-azul.webp"
+   }
+  ],
+  "recorte": "/img/modelos/300nk/recorte.webp",
+  "ambiente": "/img/modelos/300nk/ambiente.webp",
+  "galeria": [
+   "/img/modelos/300nk/galeria-1.webp",
+   "/img/modelos/300nk/galeria-2.webp",
+   "/img/modelos/300nk/galeria-3.webp",
+   "/img/modelos/300nk/galeria-4.webp"
+  ],
+  "youtube": "gPDH8t-NY2c"
+ },
+ {
+  "slug": "250nk",
+  "nome": "250NK",
+  "categoria": "motociclos",
+  "familia": "Naked",
+  "serie": "NK",
+  "ordem": 16,
+  "selo": "Novo modelo",
+  "slogan": "Leve. Ágil. Sempre pronta.",
+  "descricao": [
+   "A 250NK combina um motor monocilíndrico eficiente com uma ciclística leve e fácil de dominar. Ágil na cidade e divertida quando aceleras, oferece uma condução suave, económica e cheia de atitude.",
+   "Fácil de conduzir. Difícil de largar."
+  ],
+  "numeros": [
+   {
+    "valor": "249",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "26",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "151",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "21",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "ABS",
+   "Iluminação Full LED",
+   "LCD com indicadores de nível de combustível, de mudança engrenada, odómetro, velocidade e hora",
+   "Mapas de potência com dois modos de condução integrados",
+   "Jantes de liga leve",
+   "12,5 litros de capacidade do depósito"
+  ],
+  "recursos": [
+   {
+    "titulo": "Embraiagem deslizante",
+    "texto": "A embraiagem deslizante CF-SC suaviza as mudanças de caixa e reduz o bloqueio da roda traseira nas reduções, aumentando o controlo e a segurança.",
+    "img": "/img/modelos/250nk/recurso-1.webp"
+   },
+   {
+    "titulo": "Sistema travagem ABS",
+    "texto": "Segurança nas travagens de emergência ou em pavimento molhado graças ao sistema antibloqueio.",
+    "img": "/img/modelos/250nk/recurso-2.webp"
+   },
+   {
+    "titulo": "Iluminação Full LED",
+    "texto": "A iluminação totalmente LED oferece um melhor campo de visão e tornar a condução mais segura.",
+    "img": "/img/modelos/250nk/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, DOHC, 4 válvulas",
+    "Cilindrada": "249 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "72 × 61.2 mm",
+    "Potência máxima": "19.2 kW @ 10000 rpm",
+    "Binário máximo": "21.3 N.m @ 7000 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "11.3:1",
+    "Homologação": "L3e-A2 (Euro V+)"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha telescópica Ø37mm invertida\nTraseira: Mono-amortecedor, alinhado ao centro",
+    "Curso da Suspensão": "Frente: 120mm\nTraseira: 46mm",
+    "Travões": "Frente: Disco único Ø292mm com pinça de 4 pistões\nTraseira: Disco único Ø220mm com pinça de 1 pistão",
+    "Pneus": "Frente: 110/70 R17 M/C 54S ou 54H\nTraseira: 140/60 R17 M/C 63S ou 63H",
+    "Capacidade do Depósito": "12.5 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "1990 × 780 × 1070 mm",
+    "Distância entre Eixos": "1360 mm",
+    "Distância ao solo": "150 mm",
+    "Altura do assento": "795 mm",
+    "Peso em ordem de marcha": "151 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/250nk/cor-azul.webp"
+   }
+  ],
+  "recorte": "/img/modelos/250nk/recorte.webp",
+  "ambiente": "/img/modelos/250nk/ambiente.webp",
+  "galeria": [
+   "/img/modelos/250nk/galeria-1.webp",
+   "/img/modelos/250nk/galeria-2.webp",
+   "/img/modelos/250nk/galeria-3.webp",
+   "/img/modelos/250nk/galeria-4.webp"
+  ],
+  "youtube": "eiABCyfk894"
+ },
+ {
+  "slug": "125nk",
+  "nome": "125NK",
+  "categoria": "motociclos",
+  "familia": "Naked",
+  "serie": "NK",
+  "ordem": 17,
+  "selo": null,
+  "slogan": "Pura diversão",
+  "descricao": [
+   "A nova 125NK chegou para transformar cada viagem num momento de pura diversão. Descontraída, leve e fácil de conduzir, esta naked combina um design compacto com tecnologia moderna e um estilo irreverente. Perfeita tanto para quem está a dar os primeiros passos nas duas rodas como para quem já tem alguma experiência e quer uma moto divertida para o dia a dia."
+  ],
+  "numeros": [
+   {
+    "valor": "124",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "14",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "142",
+    "unidade": "kg",
+    "rotulo": "Peso a seco"
+   },
+   {
+    "valor": "10",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Design pelo estúdio italiano Modena 40",
+   "Altura do assento ao solo é de 780mm",
+   "ABS de duplo canal e Controlo de tração",
+   "Pinça de travão 4 pistões e disco de 292mm na frente",
+   "Suspensão de 41 mm, invertda na frente e mono amortecedor atrás",
+   "Motor de 11 kw",
+   "Caixa de 6 velocidades",
+   "TFT de 5″",
+   "T-BOX de série com alarme anti-vibração",
+   "Sistema de Navegação Google e Sistema Motoplay através de projeção",
+   "Portas USB tipo A e C para conexão e carregamento"
+  ],
+  "recursos": [
+   {
+    "titulo": "Segurança",
+    "texto": "A segurança e o controlo são pontos de destaque neste novo modelo. Equipado com ABS e controlo de tração, oferece uma condução mais segura e estável.",
+    "img": "/img/modelos/125nk/recurso-1.webp"
+   },
+   {
+    "titulo": "Leve e ágil",
+    "texto": "A 125NK é movida por um motor monocilíndrico DOHC de 124,2 cc, que entrega cerca de 15 cv a 10.500 rpm. Com uma distância entre eixos de 1.360 mm e altura do assento de 780 mm, é altamente manobrável e acessível a diferentes estaturas. O peso de apenas 142 kg proporciona uma experiência de condução fácil e agradável.",
+    "img": "/img/modelos/125nk/recurso-2.webp"
+   },
+   {
+    "titulo": "Tecnologia e equipamento",
+    "texto": "A 125NK está equipada com um sistema de iluminação Full LED, incluindo faróis, luz traseira e piscas, oferecendo melhor visibilidade e uma aparência moderna. O display TFT de 5 polegadas exibe as informações essenciais de forma clara e intuitiva, mantendo-o bem informado enquanto conduz.",
+    "img": "/img/modelos/125nk/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, DOHC",
+    "Cilindrada": "124.2 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "47 × 58 mm",
+    "Potência máxima": "10.6 kW @ 10500 rpm",
+    "Binário máximo": "10.2 N.m @ 8500 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "12:1",
+    "Homologação": "Euro V+"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica Ø37mm\nTraseira: Mono-amortecedor central",
+    "Curso da Suspensão": "Frente: 115 mm\nTraseira: 46 mm",
+    "Travões": "Frente: Monodisco Ø292 mm\nTraseira: Monodisco Ø220 mm",
+    "Pneus": "Frente: 110/70 R17\nTraseira: 140/60 R17",
+    "Capacidade do Depósito": "12.5 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "1990 × 800 × 1065 mm",
+    "Distância entre Eixos": "1360 mm",
+    "Altura do assento": "780 mm",
+    "Peso seco": "142 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/125nk/cor-preto.webp"
+   },
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/125nk/cor-azul.webp"
+   }
+  ],
+  "recorte": "/img/modelos/125nk/recorte.webp",
+  "ambiente": "/img/modelos/125nk/ambiente.webp",
+  "galeria": [
+   "/img/modelos/125nk/galeria-1.webp",
+   "/img/modelos/125nk/galeria-2.webp",
+   "/img/modelos/125nk/galeria-3.webp"
+  ],
+  "youtube": "M9vohlc74qI"
+ },
+ {
+  "slug": "700cl-x-adventure",
+  "nome": "700CL-X Adventure",
+  "categoria": "motociclos",
+  "familia": "Classic",
+  "serie": "CL-X",
+  "ordem": 18,
+  "selo": null,
+  "slogan": "A aventura com estilo",
+  "descricao": [
+   "A 700CL-X Adventure vai muito além do que uma moto pode oferecer. É a personificação da busca pela aventura, pela liberdade e pelo espírito indomável. Com um design neo-retro que faz lembrar as máquinas clássicas do passado, esta moto é capaz de enfrentar terrenos off-road com destreza e coragem.",
+   "Se procuras uma experiência única, cheia de emoção e adrenalina, a 700CL-X Adventure é a escolha perfeita. Ela irá guiar-te por caminhos desconhecidos, desafiando-te a descobrir o verdadeiro significado da aventura. Prepara-te para embarcar nesta jornada apaixonante e deixa-te levar pela magia que esta moto inspiradora proporciona."
+  ],
+  "numeros": [
+   {
+    "valor": "693",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "70",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "203",
+    "unidade": "kg",
+    "rotulo": "Peso a seco"
+   },
+   {
+    "valor": "61",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Cruise Control Eletrónico",
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "Sistema de travagem J.Juan",
+   "ABS de dois canais",
+   "Mapas de potência com 3 modos de condução integrados",
+   "13 litros de capacidade do depósito",
+   "Suspensão invertida ajustável na dianteira e monoamortecedor traseiro KYB",
+   "Iluminação Full-LED",
+   "Embraiagem deslizante CF-SC",
+   "Assentos em pele sintética com sensação de pele real",
+   "T-BOX"
+  ],
+  "recursos": [
+   {
+    "titulo": "Ergonómica",
+    "texto": "A fim de responder de responder às necessidades de condução diária, a CFMOTO desenvolveu uma moto que proporciona uma condução relaxada aumentando assim o prazer em cada viagem.",
+    "img": "/img/modelos/700cl-x-adventure/recurso-1.webp"
+   },
+   {
+    "titulo": "Iluminação Full LED",
+    "texto": "O já reconhecido “elemento X”que decora a frente e a parte traseira, cria um perfeito equilíbrio de elegância e poder, além de proporcionar segurança e grande visibilidade.",
+    "img": "/img/modelos/700cl-x-adventure/recurso-2.webp"
+   },
+   {
+    "titulo": "Embraiagem Deslizante CF-SC",
+    "texto": "A embraiagem deslizante CF-SC ajuda a melhorar a entrega de potência e a realizar mudanças de velocidades mais suaves, reduzindo o stress da caixa.",
+    "img": "/img/modelos/700cl-x-adventure/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC, 8 válvulas,",
+    "Cilindrada": "693 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "83 × 64 mm",
+    "Potência máxima": "51.5 kW @ 8750 rpm",
+    "Binário máximo": "60.9 N·m @ 6500 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "11.6 : 1",
+    "Homologação": "Euro V"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação KYB Ø41mm\nTraseira: Mono-amortecedor c/regulação KYB",
+    "Curso da Suspensão": "Frente: 150mm\nTraseira: 150mm",
+    "Travões": "Frente: Monodisco Ø300mm J.Juan\nTraseira: Monodisco Ø260mm J.Juan",
+    "Rodas": "Frente: 3 × 18 MT\nTraseira: 4.5 × 17 MT",
+    "Pneus": "Frente: 110/80 R18\nTraseira: 170/60 R17",
+    "Capacidade do Depósito": "13 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2115 × 892 × 1290 mm",
+    "Distância entre Eixos": "1435 mm",
+    "Altura do assento": "830 mm",
+    "Peso seco": "203 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/700cl-x-adventure/cor-azul.webp"
+   }
+  ],
+  "recorte": "/img/modelos/700cl-x-adventure/recorte.webp",
+  "ambiente": "/img/modelos/700cl-x-adventure/ambiente.webp",
+  "galeria": [
+   "/img/modelos/700cl-x-adventure/galeria-1.webp",
+   "/img/modelos/700cl-x-adventure/galeria-2.webp",
+   "/img/modelos/700cl-x-adventure/galeria-3.webp",
+   "/img/modelos/700cl-x-adventure/galeria-4.webp"
+  ],
+  "youtube": "mbSLXrphYPA"
+ },
+ {
+  "slug": "700cl-x-heritage",
+  "nome": "700CL-X Heritage",
+  "categoria": "motociclos",
+  "familia": "Classic",
+  "serie": "CL-X",
+  "ordem": 19,
+  "selo": null,
+  "slogan": "A liberdade com estilo",
+  "descricao": [
+   "Simplicidade e elegância fundidas numa moto de “carácter” intemporal, graças à combinação do seu estilo retro com a mais moderna tecnologia. Feita à imagem dos amantes da liberdade oferecida por agradáveis viagens dentro e fora de cidade. O seu peso reduzido combinado com os 70cv do motor bicilíndrico tornarão a tua experiência de condução única."
+  ],
+  "numeros": [
+   {
+    "valor": "693",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "70",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "196",
+    "unidade": "kg",
+    "rotulo": "Peso a seco"
+   },
+   {
+    "valor": "61",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Cruise Control Eletrónico",
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "Sistema de travagem J.Juan",
+   "ABS de dois canais",
+   "Mapas de potência com dois modos de condução integrados",
+   "13,5 litros de capacidade do depósito",
+   "Suspensão invertida ajustável na dianteira e monoamortecedor traseiro KYB",
+   "Iluminação Full-LED",
+   "Embraiagem deslizante CF-SC",
+   "Assentos em pele sintética com sensação de pele real",
+   "T-BOX"
+  ],
+  "recursos": [
+   {
+    "titulo": "Ergonómica",
+    "texto": "A fim de responder de responder às necessidades de condução diária, a CFMOTO desenvolveu uma moto que proporciona uma condução relaxada aumentando assim o prazer em cada viagem.",
+    "img": "/img/modelos/700cl-x-heritage/recurso-1.webp"
+   },
+   {
+    "titulo": "Iluminação Full LED",
+    "texto": "O já reconhecido “elemento X”que decora a frente e a parte traseira, cria um perfeito equilíbrio de elegância e poder, além de proporcionar segurança e grande visibilidade.",
+    "img": "/img/modelos/700cl-x-heritage/recurso-2.webp"
+   },
+   {
+    "titulo": "Embraiagem Deslizante CF-SC",
+    "texto": "A embraiagem deslizante CF-SC ajuda a melhorar a entrega de potência e a realizar mudanças de velocidades mais suaves, reduzindo o stress da caixa.",
+    "img": "/img/modelos/700cl-x-heritage/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC, 8 válvulas,",
+    "Cilindrada": "693 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "83 × 64 mm",
+    "Potência máxima": "51.5 kW @ 8750 rpm",
+    "Binário máximo": "60.9 N·m @ 6500 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "11.6 : 1",
+    "Homologação": "Euro V"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação KYB\nTraseira: Mono-amortecedor c/regulação KYB",
+    "Curso da Suspensão": "Frente: 150mm\nTraseira: 150mm",
+    "Travões": "Frente: Monodisco Ø320mm J.Juan\nTraseira: Monodisco Ø260mm J.Juan",
+    "Rodas": "Frente: 3.5 × 18 MT\nTraseira: 5.5 × 17 MT",
+    "Pneus": "Frente: 110/80 R18\nTraseira: 180/55 R17",
+    "Capacidade do Depósito": "13.5 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2106 × 862 × 1200 mm",
+    "Distância entre Eixos": "1435 mm",
+    "Altura do assento": "830 mm",
+    "Peso seco": "196 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/700cl-x-heritage/cor-azul.webp"
+   },
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/700cl-x-heritage/cor-preto.webp"
+   }
+  ],
+  "recorte": "/img/modelos/700cl-x-heritage/recorte.webp",
+  "ambiente": "/img/modelos/700cl-x-heritage/ambiente.webp",
+  "galeria": [
+   "/img/modelos/700cl-x-heritage/galeria-1.webp",
+   "/img/modelos/700cl-x-heritage/galeria-2.webp",
+   "/img/modelos/700cl-x-heritage/galeria-3.webp",
+   "/img/modelos/700cl-x-heritage/galeria-4.webp"
+  ],
+  "youtube": "n3DJh3taOrY"
+ },
+ {
+  "slug": "700cl-x-sport",
+  "nome": "700CL-X Sport",
+  "categoria": "motociclos",
+  "familia": "Classic",
+  "serie": "CL-X",
+  "ordem": 20,
+  "selo": null,
+  "slogan": "Arrojada e enérgica",
+  "descricao": [
+   "A 700CL-X SPORT é arrojada e enérgica. A sua estética tipo café-racer recebe uma nova interpretação graças a um desempenho excecional e um estilo sofisticado. A linguagem de design CL-X com elementos como o X do farol, a iluminação traseira, espelhos redondos, quadro exposto, tampa do motor e a forma estreita do depósito de combustível, atrai a atenção de todos por onde quer que passe. Pré-equipado de série com ABS, acelerador eletrónico, embraiagem deslizante, “cruise control”, travões Brembo, suspensão KYB, avanço de guiador, proteção de ignição, sensor de capotamento e iluminação LED. A 700CL-X SPORT é puro estilo seja qual for angulo que se olhe para ela."
+  ],
+  "numeros": [
+   {
+    "valor": "693",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "70",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "205",
+    "unidade": "kg",
+    "rotulo": "Peso a seco"
+   },
+   {
+    "valor": "61",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Cruise Control Eletrónico",
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "Sistema de travagem Brembo",
+   "ABS de dois canais",
+   "Mapas de potência com dois modos de condução integrados",
+   "13 litros de capacidade do depósito",
+   "Suspensão invertida ajustável na dianteira e monoamortecedor traseiro KYB",
+   "Iluminação Full-LED",
+   "Embraiagem deslizante CF-SC",
+   "T-BOX"
+  ],
+  "recursos": [
+   {
+    "titulo": "Modos de condução",
+    "texto": "MODOS DE CONDUÇÃO\nMapas de potência com dois modos de condução integrados, permite adequar a potência às necessidades da condução, seja mais cautelosa ou mais desportiva.",
+    "img": "/img/modelos/700cl-x-sport/recurso-1.webp"
+   },
+   {
+    "titulo": "Iluminação Full LED",
+    "texto": "O já reconhecido “elemento X”que decora a frente e a parte traseira, cria um perfeito equilíbrio de elegância e poder, além de proporcionar segurança e grande visibilidade.",
+    "img": "/img/modelos/700cl-x-sport/recurso-2.webp"
+   },
+   {
+    "titulo": "Embraiagem Deslizante CF-SC",
+    "texto": "A embraiagem deslizante CF-SC ajuda a melhorar a entrega de potência e a realizar mudanças de velocidades mais suaves, reduzindo o stress da caixa.",
+    "img": "/img/modelos/700cl-x-sport/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC, 8 válvulas",
+    "Cilindrada": "693 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "83 × 64 mm",
+    "Potência máxima": "51.8 kW @ 8750 rpm",
+    "Binário máximo": "61.2 N·m @ 6500 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "11.6 : 1",
+    "Homologação": "Euro V"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação Ø41mm KYB\nTraseira: Mono-amortecedor c/regulação KYB",
+    "Curso da Suspensão": "Frente: 150mm\nTraseira: 150mm",
+    "Travões": "Frente: 2 discos Ø300mm Brembo\nTraseira: Monodisco Ø260mm Brembo",
+    "Rodas": "Frente: 3.5 × 17 MT\nTraseira: 5.5 × 17 MT",
+    "Pneus": "Frente: 120/70 ZR17\nTraseira: 180/55 ZR17",
+    "Capacidade do Depósito": "13 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2096 × 790 × 1130 mm",
+    "Distância entre Eixos": "1435 mm",
+    "Distância ao solo": "160 mm",
+    "Altura do assento": "795 mm",
+    "Peso seco": "205 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/700cl-x-sport/cor-cinzento.webp"
+   },
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/700cl-x-sport/cor-branco.webp"
+   }
+  ],
+  "recorte": "/img/modelos/700cl-x-sport/recorte.webp",
+  "ambiente": "/img/modelos/700cl-x-sport/ambiente.webp",
+  "galeria": [
+   "/img/modelos/700cl-x-sport/galeria-1.webp",
+   "/img/modelos/700cl-x-sport/galeria-2.webp",
+   "/img/modelos/700cl-x-sport/galeria-3.webp",
+   "/img/modelos/700cl-x-sport/galeria-4.webp"
+  ],
+  "youtube": "tbmjb4WutlU"
+ },
+ {
+  "slug": "450cl-c",
+  "nome": "450CL-C",
+  "categoria": "motociclos",
+  "familia": "Classic",
+  "serie": "CL-C",
+  "ordem": 21,
+  "selo": null,
+  "slogan": "Parte em busca da tua verdadeira essência",
+  "descricao": [
+   "Mais do que uma cruiser, a 450CL-C é a fusão perfeita entre o detalhe e o clássico, combinando harmoniosamente o design cruiser com um espírito de liberdade sem limites. O seu design refinado presta homenagem ao charme clássico, enquanto o espírito de liberdade te leva onde mais desejares. Sentar-se na 450CL-C não é apenas uma questão de conforto, mas sim de descoberta da tua essência."
+  ],
+  "numeros": [
+   {
+    "valor": "449",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "44",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "183",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "42",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Design que incorpora exclusividade através de linhas elegantes",
+   "Altura do assento ao solo 690 mm",
+   "Escape de saída dupla com pintura cerâmica fosca refinada",
+   "Motor bicilíndrico de 449 cc que produz 44 cv e 42 Nm de binário",
+   "Equipada com ABS e TCS de canal duplo dianteiro e traseiro",
+   "Embraiagem deslizante",
+   "Pneu 130/50 R16 mais largo e musculoso acrescenta impacto visual",
+   "Disco de travão de grande porte de 320 mm",
+   "Pinça radial de quatro pistões opostos da J.Juan na frente",
+   "Transmissão final por correia de fibra compósita, mais suave e confortável",
+   "Écran curvo TFT redondo de estilo retro de 3 polegadas"
+  ],
+  "recursos": [
+   {
+    "titulo": "Design",
+    "texto": "Uma obra-prima de design que cativa a cada olhar. Ostentando o encanto de uma era clássica, destacado pelo tampo do depósito de combustível cromado. A chapa com o ano de 1989 e o logótipo em anel prateado prestam homenagem à herança, celebrando um legado intemporal.",
+    "img": "/img/modelos/450cl-c/recurso-1.webp"
+   },
+   {
+    "titulo": "Tecnologia",
+    "texto": "Ecrã TFT redondo de 3,6” de estilo retro com avisos de engrenagem e ligação incorporados. Esta tecnologia aumenta o prazer de condução.",
+    "img": "/img/modelos/450cl-c/recurso-2.webp"
+   },
+   {
+    "titulo": "Segurança",
+    "texto": "Com ABS de série e sistema de controlo de tração (TCS), mantém o controlo mesmo em situações mais difíceis. Confia na fiabilidade da 450CL-C e desfruta de uma condução sem preocupações.",
+    "img": "/img/modelos/450cl-c/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC",
+    "Cilindrada": "449 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "72 × 55.2 mm",
+    "Potência máxima": "32.5 kW @ 9000 rpm",
+    "Binário máximo": "42 N·m @ 6250 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Homologação": "Euro V"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha invertida Ø37mm\nTraseira: Mono-amortecedor central",
+    "Travões": "Frente: Disco Ø320mm c/pinça radial J. Juan\nTraseira: Disco Ø220 mm",
+    "Pneus": "Frente: 130/90 R16\nTraseira: 150/80 R16",
+    "Capacidade do Depósito": "12 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2208 × 829 × 1130 mm",
+    "Distância entre Eixos": "1486 mm",
+    "Distância ao solo": "160mm",
+    "Altura do assento": "690mm",
+    "Peso em ordem marcha": "183 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/450cl-c/cor-preto.webp"
+   },
+   {
+    "nome": "Vermelho",
+    "hex": "#c4161c",
+    "img": "/img/modelos/450cl-c/cor-vermelho.webp"
+   },
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/450cl-c/cor-cinzento.webp"
+   }
+  ],
+  "recorte": "/img/modelos/450cl-c/recorte.webp",
+  "ambiente": "/img/modelos/450cl-c/ambiente.webp",
+  "galeria": [
+   "/img/modelos/450cl-c/galeria-1.webp",
+   "/img/modelos/450cl-c/galeria-2.webp",
+   "/img/modelos/450cl-c/galeria-3.webp",
+   "/img/modelos/450cl-c/galeria-4.webp"
+  ],
+  "youtube": "GrZHWUEhyX0"
+ },
+ {
+  "slug": "300cl-x",
+  "nome": "300CL-X",
+  "categoria": "motociclos",
+  "familia": "Classic",
+  "serie": "CL-X",
+  "ordem": 22,
+  "selo": null,
+  "slogan": "Clássica de alma, moderna no dia a dia",
+  "descricao": [
+   "A CFMOTO 300CL-X foi pensada para quem vive a cidade com personalidade. Com um design neo-retro distinto e uma condução ágil, é a escolha ideal para quem procura estilo, atitude e liberdade no dia a dia."
+  ],
+  "numeros": [
+   {
+    "valor": "292",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "28",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "155",
+    "unidade": "kg",
+    "rotulo": "Peso a seco"
+   },
+   {
+    "valor": "25",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "Mapas de potência com dois modos de condução integrados",
+   "ABS de dois canais",
+   "Embraiagem deslizante CF-SC",
+   "Jantes de liga leve",
+   "T-BOX",
+   "14.5 litros de capacidade do depósito",
+   "Iluminação Full-LED"
+  ],
+  "recursos": [
+   {
+    "titulo": "Iluminação Full LED",
+    "texto": "O já reconhecido “elemento X”que decora a frente e a parte traseira, cria um perfeito equilíbrio de elegância e poder, além de proporcionar segurança e grande visibilidade.",
+    "img": "/img/modelos/300cl-x/recurso-1.webp"
+   },
+   {
+    "titulo": "Embraiagem Deslizante CF-SC",
+    "texto": "A embraiagem deslizante CF-SC ajuda a melhorar a entrega de potência e a realizar mudanças de velocidades mais suaves, reduzindo o stress da caixa.",
+    "img": "/img/modelos/300cl-x/recurso-2.webp"
+   },
+   {
+    "titulo": "Estética fascinante",
+    "texto": "Uma fusão entre design clássico e moderno, com formas limpas e elementos que ressaltam, pensado para uma geração com uma atitude dinâmica e com especial atenção no estilo.",
+    "img": "/img/modelos/300cl-x/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, DOHC, 4 válvulas",
+    "Cilindrada": "292 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "78 × 61.2 mm",
+    "Potência máxima": "20.5 kW @ 8750 rpm",
+    "Binário máximo": "25 N·m @ 7000 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Taxa de compressão": "11 : 1",
+    "Homologação": "Euro V"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica Ø37mm\nTraseira: Mono-amortecedor",
+    "Curso da Suspensão": "Frente: 125mm\nTraseira: 140mm",
+    "Travões": "Frente: Monodisco Ø292mm\nTraseira: Monodisco Ø220mm",
+    "Rodas": "Frente: 3.5 × 17 MT\nTraseira: 4.0 × 17 MT",
+    "Pneus": "Frente: 110/70 R17\nTraseira: 150/60 R17",
+    "Capacidade do Depósito": "14.5 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2020 × 835 × 1138 mm",
+    "Distância entre Eixos": "1365 mm",
+    "Distância ao solo": "150 mm",
+    "Altura do assento": "795 mm",
+    "Peso seco": "155 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/300cl-x/cor-preto.webp"
+   },
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/300cl-x/cor-branco.webp"
+   }
+  ],
+  "recorte": "/img/modelos/300cl-x/recorte.webp",
+  "ambiente": "/img/modelos/300cl-x/ambiente.webp",
+  "galeria": [
+   "/img/modelos/300cl-x/galeria-1.webp",
+   "/img/modelos/300cl-x/galeria-2.webp",
+   "/img/modelos/300cl-x/galeria-3.webp",
+   "/img/modelos/300cl-x/galeria-4.webp"
+  ],
+  "youtube": "R7v6Otp908Q"
+ },
+ {
+  "slug": "650gt",
+  "nome": "650GT",
+  "categoria": "motociclos",
+  "familia": "Tourer",
+  "serie": "GT",
+  "ordem": 23,
+  "selo": null,
+  "slogan": "Encontra-te na viagem",
+  "descricao": [
+   "Quando ao desempenho desportivo se junta praticidade moderna. Quando uma estética elegante é incorporada numa “tourer”. As regras são reinventadas, o comum é deixado para trás. Nasce a 650GT.",
+   "Acelera. Sente o poder. Engrena uma velocidade e acende os teus sentidos. Deixa tudo o resto para trás. Perde-te na aceleração e encontra-te na viagem."
+  ],
+  "numeros": [
+   {
+    "valor": "649",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "56",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "226",
+    "unidade": "kg",
+    "rotulo": "Peso a seco"
+   },
+   {
+    "valor": "62",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "ABS de dois canais",
+   "Sistema de travagem J.Juan",
+   "Painel TFT 5” com indicadores de nível de combustível, de mudança engrenada, odómetro, velocidade e hora",
+   "Viseira ajustável manualmente",
+   "Mapas de potência com dois modos de condução integrados",
+   "19 litros de capacidade do depósito",
+   "Suspensão invertida ajustável na dianteira e monoamortecedor traseiro",
+   "Iluminação Full-LED"
+  ],
+  "recursos": [
+   {
+    "titulo": "Viseira ajustável manualmente",
+    "texto": "Viseira ajustável de acordo com a necessidade, para melhorar o conforto da viagem.",
+    "img": "/img/modelos/650gt/recurso-1.webp"
+   },
+   {
+    "titulo": "TFT a cores de 5”",
+    "texto": "Painel com indicadores de nível de combustível, de mudança engrenada, odómetro, velocidade e hora",
+    "img": "/img/modelos/650gt/recurso-2.webp"
+   },
+   {
+    "titulo": "Iluminação Full LED",
+    "texto": "A iluminação LED oferece um melhor campo de visão e um selo distintivo da 650GT.",
+    "img": "/img/modelos/650gt/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC, 8 válvulas,",
+    "Cilindrada": "649.3 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "83 × 60 mm",
+    "Potência máxima": "41.5 kW @ 8250 rpm",
+    "Binário máximo": "62 N.m @ 7000 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo",
+    "Taxa de compressão": "11.3 : 1",
+    "Homologação": "Euro V"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação KYB\nTraseira: Mono-amortecedor c/regulação KYB",
+    "Curso da Suspensão": "Frente: 120mm\nTraseira: 145mm",
+    "Travões": "Frente: 2 Discos Flutuantes c/pinças 4 embolos J. Juan\nTraseira: Monodisco Flutuante J. Juan",
+    "Rodas": "Frente: 3.5 × 17 MT\nTraseira: 4.5 × 17 MT",
+    "Pneus": "Frente: 120/70 ZR17\nTraseira: 160/60 ZR17",
+    "Capacidade do Depósito": "19 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2100 × 930 × 1340 mm",
+    "Distância entre Eixos": "1415 mm",
+    "Distância ao solo": "150 mm",
+    "Altura do assento": "795 mm",
+    "Peso seco": "226 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/650gt/cor-branco.webp"
+   },
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/650gt/cor-preto.webp"
+   }
+  ],
+  "recorte": "/img/modelos/650gt/recorte.webp",
+  "ambiente": "/img/modelos/650gt/ambiente.webp",
+  "galeria": [
+   "/img/modelos/650gt/galeria-1.webp",
+   "/img/modelos/650gt/galeria-2.webp",
+   "/img/modelos/650gt/galeria-3.webp",
+   "/img/modelos/650gt/galeria-4.webp"
+  ],
+  "youtube": "l_8CqgJg4Yc"
+ },
+ {
+  "slug": "675sr-r",
+  "nome": "675SR-R",
+  "categoria": "motociclos",
+  "familia": "Sport",
+  "serie": "SR",
+  "ordem": 24,
+  "selo": null,
+  "slogan": "Para os amantes da velocidade",
+  "descricao": [
+   "Um modelo desportivo com um potente motor de três cilindros para uma experiência de condução ainda mais emocionante."
+  ],
+  "numeros": [
+   {
+    "valor": "675",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "90",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "189",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "68",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Design pelo estúdio italiano Modena 40",
+   "Canalizadores de ar para as pinças de travão e que servem igualmente como protetores de discos",
+   "Duplo disco frontal de 300mm e pinças radiais de 4 pistões",
+   "Novo Geração motor tricilindrico de 66 KW",
+   "Controlo de tração de 2 níveis",
+   "Braço oscilante em alumínio",
+   "Iluminação Full LED",
+   "TFT de 5″",
+   "Écran com modo de cronómetro",
+   "Altura do assento ao solo é de 810mm",
+   "Chassis tubular em alumínio"
+  ],
+  "recursos": [
+   {
+    "titulo": "Novo motor de 3 Cilindros",
+    "texto": "A CFMOTO 675SR-R oferece inovações técnicas que a diferenciam de outros motores pois apresenta um diâmetro de 72 mm e um curso de 55,2 mm, combinados com árvore de cames duplos e pistões forjados, alcançando uma potência de cerca de 66 kW.",
+    "img": "/img/modelos/675sr-r/recurso-1.webp"
+   },
+   {
+    "titulo": "Design Inovador",
+    "texto": "Projetada como uma verdadeira moto desportiva, a CFMOTO 675SR-R combina desempenho, conforto e funcionalidade para o dia a dia. Com tecnologia avançada e equipamento de alta qualidade, é impossível resistir ao seu encanto.",
+    "img": "/img/modelos/675sr-r/recurso-2.webp"
+   },
+   {
+    "titulo": "Tecnologia e equipamento",
+    "texto": "Equipada com recursos como quickshift, controlo de tração e a opção de inverter o pedal de mudanças para uso em pista, a 675SR-R oferece tecnologias de série que elevam o desempenho",
+    "img": "/img/modelos/675sr-r/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Tricilíndrico, DOHC",
+    "Cilindrada": "675 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "72 × 55.2 mm",
+    "Potência máxima": "66 kW @ 11000 rpm",
+    "Binário máximo": "68 N.m @ 8250 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo, Embraiagem Deslizante",
+    "Homologação": "Euro V+"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Forquilha Telescópica c/regulação Ø41mm\nTraseira: Mono-amortecedor central c/regulação",
+    "Curso da Suspensão": "Frente: 130 mm\nTraseira: 130 mm",
+    "Travões": "Frente: Duplo disco frontal de 300mm e pinças radiais de 4 pistões\nTraseira: Monodisco Ø240 mm",
+    "Pneus": "Frente: 120/70 R17\nTraseira: 180/55 R17",
+    "Capacidade do Depósito": "15 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2020 × 728 × 1105 mm",
+    "Distância entre Eixos": "1400 mm",
+    "Altura do assento": "810 mm",
+    "Peso em Ordem de Marcha": "189 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/675sr-r/cor-branco.webp"
+   },
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/675sr-r/cor-preto.webp"
+   },
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/675sr-r/cor-cinzento.webp"
+   }
+  ],
+  "recorte": "/img/modelos/675sr-r/recorte.webp",
+  "ambiente": "/img/modelos/675sr-r/ambiente.webp",
+  "galeria": [
+   "/img/modelos/675sr-r/galeria-1.webp",
+   "/img/modelos/675sr-r/galeria-2.webp",
+   "/img/modelos/675sr-r/galeria-3.webp",
+   "/img/modelos/675sr-r/galeria-4.webp"
+  ],
+  "youtube": "--xCpG3IqA4"
+ },
+ {
+  "slug": "450sr",
+  "nome": "450SR",
+  "categoria": "motociclos",
+  "familia": "Sport",
+  "serie": "SR",
+  "ordem": 25,
+  "selo": null,
+  "slogan": "Play to Win",
+  "descricao": [
+   "Com o lançamento do 450SR, a CFMOTO está a tornal real um modelo futurista e conceptual. O modelo 450SR possui a cilindrada ideal para motociclistas iniciantes e avançados que procuram desempenho. Com um motor de dois cilindros paralelos de 450 cc e uma potência máxima de 34,5 kW a 10000 rpm, o 450SR chegou para redefinir o conceito das desportivas de media cilindrada."
+  ],
+  "numeros": [
+   {
+    "valor": "450",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "47",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "179",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "39",
+    "unidade": "Nm",
+    "rotulo": "Binário máximo"
+   }
+  ],
+  "destaques": [
+   "Componentes eletrónicos Bosch incluindo o ECU",
+   "ABS de dois canais",
+   "Iluminação Full LED",
+   "Controlo de Tração",
+   "Painel TFT 5” com indicadores de nível de combustível, de mudança engrenada, odómetro, velocidade e hora",
+   "Mapas de potência com dois modos de condução integrados",
+   "Jantes de liga leve",
+   "14 litros de capacidade do depósito",
+   "Desenhado pela equipa de design italiana Modena 40."
+  ],
+  "recursos": [
+   {
+    "titulo": "TFT a cores de 5”",
+    "texto": "Painel com com ligação à app CFMOTO Ride e informações de ajuda à condução.",
+    "img": "/img/modelos/450sr/recurso-1.webp"
+   },
+   {
+    "titulo": "Sistema travagem Brembo",
+    "texto": "Segurança nas travagens de emergência ou em pavimento molhado graças ao sistema antibloqueio.",
+    "img": "/img/modelos/450sr/recurso-2.webp"
+   },
+   {
+    "titulo": "Iluminação Full LED",
+    "texto": "A iluminação totalmente LED oferece um melhor campo de visão e tornar a condução mais segura.",
+    "img": "/img/modelos/450sr/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "2 cilindros em linha, DOHC, 8 válvulas,",
+    "Cilindrada": "449.5 cc",
+    "Refrigeração": "Líquida",
+    "Curso x Diâmetro": "72 × 55.2 mm",
+    "Potência máxima": "34.5 kW @ 10000 rpm",
+    "Binário máximo": "39.3 N.m @ 7750 rpm",
+    "Embraiagem": "Multi-disco em banho de óleo",
+    "Taxa de compressão": "11.5 : 1",
+    "Homologação": "Euro 5 +"
+   },
+   "Chassis": {
+    "Quadro": "Tubular",
+    "Suspensão dianteira": "Forquilha Telescópica c/ regulação Ø37mm",
+    "Suspensão traseira": "Mono-amortecedor c/ regulação",
+    "Travão Dianteiro": "Monodisco Ø320mm Brembo",
+    "Travão Traseiro": "Monodisco Ø220mm",
+    "Pneu dianteiro": "110/70 R17",
+    "Pneu traseiro": "150/60 R17",
+    "Capacidade do Depósito": "14 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento": "1990 mm",
+    "Largura": "735 mm",
+    "Altura": "1130 mm",
+    "Distância entre Eixos": "1365 mm",
+    "Altura do assento": "795 mm",
+    "Distância ao solo": "150 mm",
+    "Peso em ordem de marcha": "179 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/450sr/cor-preto.webp"
+   },
+   {
+    "nome": "Branco",
+    "hex": "#f2f2f0",
+    "img": "/img/modelos/450sr/cor-branco.webp"
+   }
+  ],
+  "recorte": "/img/modelos/450sr/recorte.webp",
+  "ambiente": "/img/modelos/450sr/ambiente.webp",
+  "galeria": [
+   "/img/modelos/450sr/galeria-1.webp",
+   "/img/modelos/450sr/galeria-2.webp",
+   "/img/modelos/450sr/galeria-3.webp",
+   "/img/modelos/450sr/galeria-4.webp"
+  ],
+  "youtube": "Qf16G0Exqgc"
+ },
+ {
+  "slug": "cforce-1000-mv",
+  "nome": "CFORCE 1000 MV",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE 1000",
+  "ordem": 26,
+  "selo": null,
+  "slogan": "Domina qualquer terreno",
+  "descricao": [
+   "O novo CFORCE 1000 MV foi feito para dominar a lama, a neve e qualquer desafio no caminho. Com snorkel, radiador elevado, proteção frontal e pneus maiores de série, está preparado para enfrentar os terrenos mais extremos. O motor de 86 cv e o chassi equilibrado garantem uma condução ágil e emocionante."
+  ],
+  "numeros": [
+   {
+    "valor": "963",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "86",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "597",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "26",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Cinta de apoio no guiador para maior controlo",
+   "Pousa pés Diagonais para melhor posição condução",
+   "Radiador reposicionado em zona superior com nova grelha de 3 posições",
+   "3 modos de condução",
+   "Amortecedores hidráulicos totalmente ajustáveis com depósito exterior",
+   "Jantes 14 ” com sistema Beadlock",
+   "Pneus de lama com 30″ de altura",
+   "Caixa de arrumação de 14,5 Lt, estanque à água",
+   "Guincho colocado em posição mais elevada",
+   "Para-lamas mais largos",
+   "Proteções de chassis muitos resistentes, fabricadas em HDPE"
+  ],
+  "recursos": [
+   {
+    "titulo": "Design Aventureiro",
+    "texto": "Projetado para enfrentar todo o tipo de terrenos, combina potência e durabilidade para as aventuras mais exigentes. Este modelo inclui snorkel,\nradiador elevado, grade de proteção frontal e pneus maiores, garantindo um excelente desempenho em condições extremas.",
+    "img": "/img/modelos/cforce-1000-mv/recurso-1.webp"
+   },
+   {
+    "titulo": "Motor Potente",
+    "texto": "Com um motor de dois cilindros de 86 cv e chassis compacto com distribuição de peso equilibrada, oferece uma experiência de condução ágil e confortável.",
+    "img": "/img/modelos/cforce-1000-mv/recurso-2.webp"
+   },
+   {
+    "titulo": "Tecnologia",
+    "texto": "O seu moderno écran de 7″ ajuda-o a manter-se informado do que se passa no seu veículo, enquanto o sistema de radiador elevado garante desempenho continuo, mesmo na lama mais densa.",
+    "img": "/img/modelos/cforce-1000-mv/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Bicilindro em V, 4 Tempos, SOHC, 8 válvulas",
+    "Cilindrada": "963 cc",
+    "Potência do motor": "63 kW @ 7500 rpm (86 cv)",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT com controlo de assistência em descida"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, Duplo triângulo\nTraseira: Suspensão independente, Duplo braço oscilante",
+    "Curso da Suspensão": "Frente: 230mm\nTraseira: 236mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 30 × 9.00-14\nTraseira: 30 × 11.00-14",
+    "Capacidade do Depósito / Reserva": "26 L / 4 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2491 × 1370 × 1477 mm",
+    "Distância entre Eixos": "1480 mm",
+    "Distância ao Solo": "305 mm",
+    "Peso em Ordem de Marcha": "597 kg",
+    "Capacidade de Reboque com e sem travão": "700kg / 260kg"
+   },
+   "Acessórios e outros": {
+    "Grelha": "Sim",
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Proteção de mãos": "Sim",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel TFT 7”",
+    "Lotação": "2",
+    "Homologação": "T3b"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/cforce-1000-mv/cor-cinzento.webp"
+   },
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/cforce-1000-mv/cor-azul.webp"
+   }
+  ],
+  "recorte": "/img/modelos/cforce-1000-mv/recorte.webp",
+  "ambiente": "/img/modelos/cforce-1000-mv/ambiente.webp",
+  "galeria": [
+   "/img/modelos/cforce-1000-mv/galeria-1.webp",
+   "/img/modelos/cforce-1000-mv/galeria-2.webp",
+   "/img/modelos/cforce-1000-mv/galeria-3.webp",
+   "/img/modelos/cforce-1000-mv/galeria-4.webp"
+  ],
+  "youtube": "WHP5gwh-oos"
+ },
+ {
+  "slug": "cforce-1000-overland",
+  "nome": "CFORCE 1000 Overland",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE 1000",
+  "ordem": 27,
+  "selo": null,
+  "slogan": "Rumo à aventura",
+  "descricao": [
+   "O CFORCE 1000 OVERLAND é a estrela da gama de ATV’s da CFMOTO. Os extras de fábrica que equipam o mais poderoso ATV da CFMOTO incluem jantes Beadlock, barras de proteção dianteiras e traseiras, iluminação LED, placa de proteção inferior em HDPE de 8mm, tinta premium camuflado, extensores de guarda-lamas e viseira. O conforto, o manuseio preciso e os equipamentos premium proporcionam-lhe a liberdade para explorar e de levar tudo consigo. Com uma capacidade de carga generosa e lugar para um passageiro poderá sair rumo à aventura com tudo o que necessita para garantir maior conforto e comodidade."
+  ],
+  "numeros": [
+   {
+    "valor": "963",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "86",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "593",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "26",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "3 modos de condução",
+   "EPS",
+   "Jantes de alumínio 14",
+   "Beadlock",
+   "Guincho",
+   "Bola de reboque",
+   "Iluminação Full LED",
+   "Proteção de mãos",
+   "TFT 8″",
+   "Proteção de motor",
+   "Mala com encosto"
+  ],
+  "recursos": [
+   {
+    "titulo": "Estrela da gama de ATVs",
+    "texto": "O conforto , manuseamento preciso e os equipamentos premium, proteções frontal e traseira, proteção inferior , viseira, jantes beadlock, o conforto, manuseamento preciso e os equipamentos premium proporcionam-lhe a liberdade para explorar e levar tudo consigo.",
+    "img": "/img/modelos/cforce-1000-overland/recurso-1.webp"
+   },
+   {
+    "titulo": "Equipado com ABS e deslimitado a 105 km/h",
+    "texto": "Impulsionado por um motor V-twin de 963 cc e 86 cv de potência oferece o melhor desempenho para aventuras off-road. O motor de 8 válvulas , equipado com injeção eletrónica( EFI) garante a entrega de toda a potência precisa",
+    "img": "/img/modelos/cforce-1000-overland/recurso-2.webp"
+   },
+   {
+    "titulo": "Condução perfeita",
+    "texto": "A suspenção dianteira de braço duplo A e a suspenção traseira de braço oscilante proporcionam desempenhode aderência ao solo e um passeio suave, mesmo nos terrenos mais difíceis. Amortecedores a gás totalmente ajustáveis permitem personalizar o tipo de passeio de trabalho ou lazer.",
+    "img": "/img/modelos/cforce-1000-overland/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Bicilíndrico em V, 4 Tempos, SOHC, 8 válvulas",
+    "Cilindrada": "963 cc",
+    "Potência do motor": "63 kW @ 7500 rpm (86 cv)",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio de Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT com controlo de assistência em descida"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, Duplo triângulo\nTraseira: Suspensão independente, Duplo braço oscilante",
+    "Curso da Suspensão": "Frente: 230mm\nTraseira: 236mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 27 × 9.00-14\nTraseira: 27 × 11.00-14",
+    "Capacidade do Depósito / Reserva": "26L / 4L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2435 × 1264 × 1605 mm",
+    "Distância entre Eixos": "1480 mm",
+    "Distância ao Solo": "305 mm",
+    "Peso em Ordem de Marcha": "593 kg",
+    "Capacidade de Reboque com e sem travão": "800kg / 300kg"
+   },
+   "Acessórios e outros": {
+    "ABS": "Sim",
+    "Grelha": "Sim",
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Proteção de mãos": "Sim",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "2",
+    "Homologação": "T3b"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Verde",
+    "hex": "#4f6b3a",
+    "img": "/img/modelos/cforce-1000-overland/cor-verde.webp"
+   }
+  ],
+  "recorte": "/img/modelos/cforce-1000-overland/recorte.webp",
+  "ambiente": "/img/modelos/cforce-1000-overland/ambiente.webp",
+  "galeria": [
+   "/img/modelos/cforce-1000-overland/galeria-1.webp",
+   "/img/modelos/cforce-1000-overland/galeria-2.webp",
+   "/img/modelos/cforce-1000-overland/galeria-3.webp",
+   "/img/modelos/cforce-1000-overland/galeria-4.webp"
+  ],
+  "youtube": "hAakeI1s8Zc"
+ },
+ {
+  "slug": "cforce-1000-touring",
+  "nome": "CFORCE 1000 Touring",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE 1000",
+  "ordem": 28,
+  "selo": null,
+  "slogan": "Supera todos os desafios",
+  "descricao": [
+   "Eis o novo CFORCE 1000 TOURING. Não é apenas força bruta, é confiança absoluta. Para os aventureiros destemidos que buscam ultrapassar cada desafio sem vacilar. Além disso tem uma capacidade de carga de 300kg e modos de potência variados. O seu design inovador com um painel TFT de 8” de última geração e um potente motor de 86cv, fazem deste modelo mais do que uma máquina: é uma afirmação de poder e estilo, pronto para encarar qualquer aventura com a máxima confiança."
+  ],
+  "numeros": [
+   {
+    "valor": "963",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "86",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "558",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "26",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Distância ao solo de 305 mm",
+   "Raio de viragem 17% superior",
+   "Capacidade de carga de 800 kg",
+   "Múltiplos modos de potência",
+   "Múltiplos modos de EPS",
+   "Controlo de assistência em descida",
+   "Guincho elétrico potente de 1587 kg",
+   "Luzes LED de alta intensidade",
+   "Ecrã tátil MMI de 8”"
+  ],
+  "recursos": [
+   {
+    "titulo": "Potência de Precisão",
+    "texto": "O novo motor CFMOTO de 963cc, com 86cv, utiliza tecnologia ride-by-wire para uma aceleração suave e precisa. Com três modos de condução (Sport, Normal e Work), adapta-se a qualquer estilo de condução.",
+    "img": "/img/modelos/cforce-1000-touring/recurso-1.webp"
+   },
+   {
+    "titulo": "Eletrónica Avançada para o Condutor",
+    "texto": "A eletrónica avançada melhora o controlo, segurança e conforto, com o Dynamic Downhill Assist para descidas estáveis e a Direção Assistida Eletrónica (EPS) com 3 modos ajustáveis + 1 automático, garantindo precisão em qualquer terreno.",
+    "img": "/img/modelos/cforce-1000-touring/recurso-2.webp"
+   },
+   {
+    "titulo": "Tecnologia de Última Geração",
+    "texto": "O pacote tecnológico de última geração inclui um ecrã tátil MMI de 8″ com Bluetooth, controlo de música e monitorização em tempo real, assegurando uma condução conectada e confiante.",
+    "img": "/img/modelos/cforce-1000-touring/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Bicilíndrico em V, 4 Tempos, 8 válvulas",
+    "Cilindrada": "963 cc",
+    "Potência do motor": "63 kW às 7500 rpm (86cv)",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio de Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT com controlo de assistência em descida"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo braço oscilante",
+    "Curso da Suspensão": "Frente: 230mm\nTraseira: 236mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 27 × 9.00-14\nTraseira: 27 × 11.00-14",
+    "Capacidade do Depósito / Reserva": "26L / 4L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2475 × 1264 × 1605 mm",
+    "Distância entre Eixos": "1480 mm",
+    "Distância ao Solo": "305 mm",
+    "Peso em Ordem de Marcha": "558 kg",
+    "Capacidade de Reboque com e sem travão": "800kg / 300kg"
+   },
+   "Acessórios e outros": {
+    "Grelha": "Sim",
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Proteção de mãos": "Sim",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "2",
+    "Homologação": "T3b"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/cforce-1000-touring/cor-azul.webp"
+   },
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/cforce-1000-touring/cor-cinzento.webp"
+   }
+  ],
+  "recorte": "/img/modelos/cforce-1000-touring/recorte.webp",
+  "ambiente": "/img/modelos/cforce-1000-touring/ambiente.webp",
+  "galeria": [
+   "/img/modelos/cforce-1000-touring/galeria-1.webp",
+   "/img/modelos/cforce-1000-touring/galeria-2.webp",
+   "/img/modelos/cforce-1000-touring/galeria-3.webp",
+   "/img/modelos/cforce-1000-touring/galeria-4.webp"
+  ],
+  "youtube": "HmihOKufP3E"
+ },
+ {
+  "slug": "cforce-850-touring",
+  "nome": "CFORCE 850 Touring",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE 850",
+  "ordem": 29,
+  "selo": null,
+  "slogan": "Supera todos os desafios",
+  "descricao": [
+   "Uma fusão magistral de capacidade, potência, aliado a um design centrado no piloto e uma praticidade elevada. Experimente modos de potência eletrizantes, um espetacular painel TFT de 8’’ e um guincho elétrico de 3500 lb para uma jornada “off-road” emocionante. Mais do que uma máquina, é um convite à aventura, onde cada aventura é uma narrativa de emoção e adrenalina."
+  ],
+  "numeros": [
+   {
+    "valor": "800",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "71",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "550",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "26",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Distância ao solo de 285 mm",
+   "Raio de viragem 17% superior",
+   "Capacidade de carga de 800 kg",
+   "Múltiplos modos de potência",
+   "Múltiplos modos de EPS",
+   "Controlo de assistência em descida",
+   "Guincho elétrico potente de 1587 kg",
+   "Luzes LED de alta intensidade",
+   "Ecrã tátil MMI de 8”"
+  ],
+  "recursos": [
+   {
+    "titulo": "Potência de Precisão",
+    "texto": "O novo motor CFMOTO de 800cc, com 71 cv, utiliza tecnologia ride-by-wire para uma aceleração suave e precisa. Com três modos de condução (Sport, Normal e Work), adapta-se a qualquer estilo de condução.",
+    "img": "/img/modelos/cforce-850-touring/recurso-1.webp"
+   },
+   {
+    "titulo": "Eletrónica Avançada para o Condutor",
+    "texto": "A eletrónica avançada melhora o controlo, segurança e conforto, com o Dynamic Downhill Assist para descidas estáveis e a Direção Assistida Eletrónica (EPS) com 3 modos ajustáveis + 1 automático, garantindo precisão em qualquer terreno.",
+    "img": "/img/modelos/cforce-850-touring/recurso-2.webp"
+   },
+   {
+    "titulo": "Tecnologia de Última Geração",
+    "texto": "O pacote tecnológico de última geração inclui um ecrã tátil MMI de 8″ com Bluetooth, controlo de música e monitorização em tempo real, assegurando uma condução conectada e confiante.",
+    "img": "/img/modelos/cforce-850-touring/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Bicilíndrico em V, 4 Tempos, 8 válvulas",
+    "Cilindrada": "800 cc",
+    "Potência do motor": "52.5 kW às 7500 rpm (71cv)",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio de Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT com controlo de assistência em descida"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo braço oscilante",
+    "Curso da Suspensão": "Frente: 230mm\nTraseira: 236mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 27 × 9.00-14\nTraseira: 27 × 11.00-14",
+    "Capacidade do Depósito / Reserva": "26L / 4L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2475 × 1264 × 1605 mm",
+    "Distância entre Eixos": "1480 mm",
+    "Distância ao Solo": "285 mm",
+    "Peso em Ordem de Marcha": "550 kg",
+    "Capacidade de Reboque com e sem travão": "800kg / 300kg"
+   },
+   "Acessórios e outros": {
+    "Grelha": "Sim",
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Proteção de mãos": "Sim",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "2",
+    "Homologação": "T3b"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/cforce-850-touring/cor-azul.webp"
+   },
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/cforce-850-touring/cor-cinzento.webp"
+   }
+  ],
+  "recorte": "/img/modelos/cforce-850-touring/recorte.webp",
+  "ambiente": "/img/modelos/cforce-850-touring/ambiente.webp",
+  "galeria": [
+   "/img/modelos/cforce-850-touring/galeria-1.webp",
+   "/img/modelos/cforce-850-touring/galeria-2.webp",
+   "/img/modelos/cforce-850-touring/galeria-3.webp",
+   "/img/modelos/cforce-850-touring/galeria-4.webp"
+  ],
+  "youtube": "HmihOKufP3E"
+ },
+ {
+  "slug": "cforce-625-touring-overland",
+  "nome": "CFORCE 625 Touring Overland",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE 625",
+  "ordem": 30,
+  "selo": null,
+  "slogan": "Para grandes aventuras",
+  "descricao": [
+   "Prepare-se para a derradeira experiência de condução com o CFORCE 625 Touring Overland totalmente equipado.",
+   "✓ proteção frontal, que se integra perfeitamente no design",
+   "✓ Viseira para uma maior proteção do condutor",
+   "✓ proteção inferior do chassi e braços de suspensão em alumínio",
+   "✓ mala traseira com capacidade para 90 litros de carga",
+   "✓ proteção traseira adicional.",
+   "Potência, versatilidade e segurança à sua disposição para todas as suas necessidades."
+  ],
+  "numeros": [
+   {
+    "valor": "580",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "45",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "475",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "18",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Caixa de carga 90 Litros.",
+   "Pára-choques frontal e traseiro",
+   "2 portas USB e tomada de 12V",
+   "Painel de instrumentos digital LCD",
+   "Placa de proteção inferior em HDPE de 8mm",
+   "Amortecedores a óleo com pré carga de mola",
+   "Direção assistida",
+   "Iluminação Full-LED",
+   "Rodas de 12” com jantes de alumínio",
+   "Distância ao solo de 27 cm",
+   "Guincho dianteiro",
+   "Travão de mão mecânico"
+  ],
+  "recursos": [
+   {
+    "titulo": "Viseira Ampla",
+    "img": "/img/modelos/cforce-625-touring-overland/recurso-1.webp"
+   },
+   {
+    "titulo": "Caixa de carga traseira",
+    "img": "/img/modelos/cforce-625-touring-overland/recurso-2.webp"
+   },
+   {
+    "titulo": "Proteção do guincho em alumínio de espessura de 3 mm",
+    "img": "/img/modelos/cforce-625-touring-overland/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, 4 Tempos, SOHC, 4 válvulas",
+    "Cilindrada": "580 cc",
+    "Potência do motor": "33 kW @ 6500 rpm",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio de Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo triângulo",
+    "Curso da Suspensão": "Frente: 160mm\nTraseira: 210mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 25×8.00-12\nTraseira: 25×10.00-12",
+    "Capacidade do Depósito / Reserva": "18 L / 4 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2320 × 1180 × 1390 mm",
+    "Distância entre Eixos": "1480 mm",
+    "Distância ao Solo": "270 mm",
+    "Peso em Ordem de Marcha": "475 kg",
+    "Capacidade de Reboque com e sem travão": "800kg / 300kg"
+   },
+   "Acessórios e outros": {
+    "Proteção frontal": "Sim",
+    "Proteção traseira": "Sim",
+    "Proteção inferior em alumínio": "Sim",
+    "Proteção de mãos": "Sim",
+    "Viseira": "Sim",
+    "Grelha": "Sim",
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel LCD",
+    "Lotação": "2",
+    "Homologação": "T3b"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/cforce-625-touring-overland/cor-cinzento.webp"
+   }
+  ],
+  "recorte": "/img/modelos/cforce-625-touring-overland/recorte.webp",
+  "ambiente": "/img/modelos/cforce-625-touring-overland/ambiente.webp",
+  "galeria": [
+   "/img/modelos/cforce-625-touring-overland/galeria-1.webp",
+   "/img/modelos/cforce-625-touring-overland/galeria-2.webp",
+   "/img/modelos/cforce-625-touring-overland/galeria-3.webp",
+   "/img/modelos/cforce-625-touring-overland/galeria-4.webp"
+  ],
+  "youtube": "FNa5V95s_xc"
+ },
+ {
+  "slug": "cforce-625-touring",
+  "nome": "CFORCE 625 Touring",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE 625",
+  "ordem": 31,
+  "selo": null,
+  "slogan": "Vá além de qualquer desafio",
+  "descricao": [
+   "Dentro dos nossos corações reside um intrínseco desejo por liberdade e de ultrapassar qualquer desafio. A melhor parte de caçar, pescar, acampar ou até mesmo trabalhar, provavelmente, ainda está para chegar, especialmente quando o fazes com o mais recente CFORCE 625 Touring.",
+   "O CFORCE 625 Touring dá ainda mais valor à versátil gama de ATVs da CFMOTO. Com um chassis e design de última geração, este excitante ATV está pronto para captar todos os olhares."
+  ],
+  "numeros": [
+   {
+    "valor": "580",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "45",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "475",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "18",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Direção assistida",
+   "Transmissão automática CVTech",
+   "2WD/4WD/Diferencial autoblocante Frontal",
+   "Guincho Dianteiro",
+   "Iluminação LED",
+   "Bola de reboque",
+   "Travões de disco",
+   "18 litros de capacidade do depósito",
+   "Proteção de mãos",
+   "Jantes de alumínio",
+   "Pneus 25”",
+   "Encosto de passageiro"
+  ],
+  "recursos": [
+   {
+    "titulo": "Painel digital",
+    "img": "/img/modelos/cforce-625-touring/recurso-1.webp"
+   },
+   {
+    "titulo": "45 CV mais 4 que o modelo anterior",
+    "img": "/img/modelos/cforce-625-touring/recurso-2.webp"
+   },
+   {
+    "titulo": "Tração com capacidade de 15% maior",
+    "img": "/img/modelos/cforce-625-touring/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, 4 Tempos, SOHC, 4 válvulas",
+    "Cilindrada": "580 cc",
+    "Potência do motor": "33 kW @ 6500 rpm",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio de Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo triângulo",
+    "Curso da Suspensão": "Frente: 160mm\nTraseira: 210mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 25×8.00-12\nTraseira: 25×10.00-12",
+    "Capacidade do Depósito / Reserva": "18 L / 4 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2320 × 1180 × 1390 mm",
+    "Distância entre Eixos": "1480 mm",
+    "Distância ao Solo": "270 mm",
+    "Peso em Ordem de Marcha": "475 kg",
+    "Capacidade de Reboque com e sem travão": "800kg / 300kg"
+   },
+   "Acessórios e outros": {
+    "Grelha": "Sim",
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Proteção de mãos": "Sim",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "2",
+    "Homologação": "T3b"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/cforce-625-touring/cor-cinzento.webp"
+   },
+   {
+    "nome": "Vermelho",
+    "hex": "#c4161c",
+    "img": "/img/modelos/cforce-625-touring/cor-vermelho.webp"
+   },
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/cforce-625-touring/cor-preto.webp"
+   },
+   {
+    "nome": "Verde",
+    "hex": "#4f6b3a",
+    "img": "/img/modelos/cforce-625-touring/cor-verde.webp"
+   }
+  ],
+  "recorte": "/img/modelos/cforce-625-touring/recorte.webp",
+  "ambiente": "/img/modelos/cforce-625-touring/ambiente.webp",
+  "galeria": [
+   "/img/modelos/cforce-625-touring/galeria-1.webp",
+   "/img/modelos/cforce-625-touring/galeria-2.webp",
+   "/img/modelos/cforce-625-touring/galeria-3.webp",
+   "/img/modelos/cforce-625-touring/galeria-4.webp"
+  ],
+  "youtube": "v3ovTj995zw"
+ },
+ {
+  "slug": "cforce-625s",
+  "nome": "CFORCE 625S",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE 625",
+  "ordem": 32,
+  "selo": null,
+  "slogan": "Pronto para qualquer desafio",
+  "descricao": [
+   "Dentro dos nossos corações reside um intrínseco desejo por liberdade e de ultrapassar qualquer desafio. A melhor parte de caçar, pescar, acampar ou até mesmo trabalhar, provavelmente, ainda está para chegar, especialmente quando o fazes com o mais recente CFORCE 625 S."
+  ],
+  "numeros": [
+   {
+    "valor": "580",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "45",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "470",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "18",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Direção assistida",
+   "Transmissão automática CVTech",
+   "2WD/4WD/Diferencial autoblocante Frontal",
+   "Acelerador electrónico",
+   "Bola de reboque",
+   "2 Modos de potência do motor",
+   "Travões de disco nas 4 rodas",
+   "18 litros de capacidade do depósito",
+   "Proteção de mãos",
+   "Pneus 25”"
+  ],
+  "recursos": [
+   {
+    "titulo": "Painel digital",
+    "img": "/img/modelos/cforce-625s/recurso-1.webp"
+   },
+   {
+    "titulo": "45 CV mais 4 que o modelo anterior",
+    "img": "/img/modelos/cforce-625s/recurso-2.webp"
+   },
+   {
+    "titulo": "Tração com capacidade de 15% maior",
+    "img": "/img/modelos/cforce-625s/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, 4 Tempos, SOHC, 4 válvulas",
+    "Cilindrada": "580 cc",
+    "Potência do motor": "33 kW @ 6500 rpm",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio de Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo triângulo",
+    "Curso da Suspensão": "Frente: 160mm\nTraseira: 210mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 25×8.00-12\nTraseira: 25×10.00-12",
+    "Capacidade do Depósito / Reserva": "18 L / 4 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2035 × 1180 × 1220 mm",
+    "Distância entre Eixos": "1280 mm",
+    "Distância ao Solo": "270 mm",
+    "Peso em Ordem de Marcha": "470 kg",
+    "Capacidade de Reboque com e sem travão": "800kg / 300kg"
+   },
+   "Acessórios e outros": {
+    "Grelha": "Sim",
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Proteção de mãos": "Sim",
+    "Iluminação": "Halogénio",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "2",
+    "Homologação": "T3b"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Verde",
+    "hex": "#4f6b3a",
+    "img": "/img/modelos/cforce-625s/cor-verde.webp"
+   }
+  ],
+  "recorte": "/img/modelos/cforce-625s/recorte.webp",
+  "ambiente": "/img/modelos/cforce-625s/ambiente.webp",
+  "galeria": [
+   "/img/modelos/cforce-625s/galeria-1.webp",
+   "/img/modelos/cforce-625s/galeria-2.webp",
+   "/img/modelos/cforce-625s/galeria-3.webp",
+   "/img/modelos/cforce-625s/galeria-4.webp"
+  ],
+  "youtube": "v3ovTj995zw"
+ },
+ {
+  "slug": "c5-touring",
+  "nome": "C5 Touring",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE C5",
+  "ordem": 33,
+  "selo": "Novo modelo",
+  "slogan": "O Futuro dos ATV’s",
+  "descricao": [
+   "O C5 Touring representa a nova geração de ATV de média cilindrada, desenvolvido para quem procura capacidade prática, conforto diário e facilidade de utilização.",
+   "Com a nova plataforma de motor 192, chassis leve, motor monocilíndrico DOHC e transmissão CVT eficiente, oferece uma condução suave, fiável e equilibrada, tanto no trabalho como nos passeios de fim de semana."
+  ],
+  "numeros": [
+   {
+    "valor": "499",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "39",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "461",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "17",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Direção assistida",
+   "Transmissão automática",
+   "2WD/4WD/Bloqueio diferencial dianteiro",
+   "Guincho Dianteiro",
+   "Iluminação LED",
+   "Bola de reboque",
+   "Travões de disco",
+   "17 litros de capacidade do depósito",
+   "Jantes de alumínio",
+   "Pneus 25”",
+   "Encosto de passageiro"
+  ],
+  "recursos": [
+   {
+    "titulo": "Novo motor, mais eficiente",
+    "texto": "Mais eficiente, mais suave e mais responsivo, o novo motor 192R DOHC garante ao C5 Touring uma condução equilibrada, confortável e fiável, tanto no trabalho como no lazer.",
+    "img": "/img/modelos/c5-touring/recurso-1.webp"
+   },
+   {
+    "titulo": "Design GEN⁴",
+    "texto": "Inspirado na arquitetura neo-brutalista e na filosofia “less is more”, o novo C5 Touring combina linhas limpas com luzes dot-matrix, criando uma identidade moderna, robusta e visualmente distinta.",
+    "img": "/img/modelos/c5-touring/recurso-2.webp"
+   },
+   {
+    "titulo": "Transmissão CVT de elevada eficiência",
+    "texto": "Afinada especificamente para utilização em ATV, a transmissão CVT garante uma resposta suave, eficiente e progressiva, adaptando-se facilmente tanto às tarefas diárias como aos momentos de lazer.",
+    "img": "/img/modelos/c5-touring/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, DOHC, 4 válvulas",
+    "Cilindrada": "499 cc",
+    "Potência do motor": "29 kW @ 7500 rpm",
+    "Refrigeração": "Líquida",
+    "Alimentação": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio de Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo triângulo",
+    "Curso da Suspensão": "Frente: 210mm\nTraseira: 235mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 25×8.00-12\nTraseira: 25×10.00-12",
+    "Capacidade do Depósito / Reserva": "17 L / 2 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2355 × 1175 × 1360 mm",
+    "Distância entre Eixos": "1480 mm",
+    "Distância ao Solo": "273 mm",
+    "Peso em Ordem de Marcha": "461 kg",
+    "Capacidade de Reboque com e sem travão": "612kg / 260kg"
+   },
+   "Acessórios e outros": {
+    "Grelha": "Sim",
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Proteção de mãos": "Não",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "2",
+    "Homologação": "T3b"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/c5-touring/cor-cinzento.webp"
+   },
+   {
+    "nome": "Vermelho",
+    "hex": "#c4161c",
+    "img": "/img/modelos/c5-touring/cor-vermelho.webp"
+   }
+  ],
+  "recorte": "/img/modelos/c5-touring/recorte.webp",
+  "ambiente": "/img/modelos/c5-touring/ambiente.webp",
+  "galeria": [
+   "/img/modelos/c5-touring/galeria-1.webp",
+   "/img/modelos/c5-touring/galeria-2.webp",
+   "/img/modelos/c5-touring/galeria-3.webp",
+   "/img/modelos/c5-touring/galeria-4.webp"
+  ],
+  "youtube": "HadL8cZJoHQ"
+ },
+ {
+  "slug": "cforce-520l",
+  "nome": "CFORCE 520L",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE 520",
+  "ordem": 34,
+  "selo": null,
+  "slogan": "Eleve o nível do jogo",
+  "descricao": [
+   "Com maior agilidade, estrutura ainda mais forte, suspensão com maior curso e conforto, e a capacidade de carga aumentada, fazem do CFORCE 520L capaz de assumir as tarefas mais difíceis, e ainda assim estar pronto para a diversão quando o trabalho termina. O seu motor de 495cc acrescenta mais poder e possibilidades à gama de ATV’s da CFMOTO. Equipado com EPS, maior torque e acessórios premium tais como iluminação LED, jantes de alumínio e pneus de 25 polegadas, elevam sua capacidade e robustez a um nível superior. Proteção de mãos e suportes de malas com o sistema de libertação rápida CFCONNECT acrescentam conforto e comodidade. Recursos padrão e uma variedade de acessórios disponíveis tornam o CFORCE 520L ideal para aventura."
+  ],
+  "numeros": [
+   {
+    "valor": "495",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "35",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "446",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "18",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Direção assistida",
+   "Transmissão automática CVTech",
+   "2WD/4WD/Diferencial autoblocante Frontal",
+   "Guincho Dianteiro",
+   "Iluminação LED",
+   "Bola de reboque",
+   "Travões de disco",
+   "18 litros de capacidade do depósito",
+   "Proteção de mãos",
+   "Jantes de alumínio",
+   "Pneus 25”",
+   "Encosto de passageiro"
+  ],
+  "recursos": [
+   {
+    "titulo": "25% aumento do curso de suspensão",
+    "img": "/img/modelos/cforce-520l/recurso-1.webp"
+   },
+   {
+    "titulo": "Chassis 30% mais resistente e 10% mais leve",
+    "img": "/img/modelos/cforce-520l/recurso-2.webp"
+   },
+   {
+    "titulo": "Suspenção independente",
+    "img": "/img/modelos/cforce-520l/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, 4 Tempos, SOHC, 4 válvulas",
+    "Cilindrada": "495 cc",
+    "Potência do motor": "25.5 kW @ 6750 rpm",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio de Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo triângulo",
+    "Curso da Suspensão": "Frente: 190mm\nTraseira: 225mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 25×8.00-12\nTraseira: 25×10.00-12",
+    "Capacidade do Depósito / Reserva": "18 L / 2 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2387 × 1157 × 1400 mm",
+    "Distância entre Eixos": "1465 mm",
+    "Distância ao Solo": "250 mm",
+    "Peso em Ordem de Marcha": "446 kg",
+    "Capacidade de Reboque com e sem travão": "612kg / 320kg"
+   },
+   "Acessórios e outros": {
+    "Grelha": "Sim",
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Proteção de mãos": "Sim",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "2",
+    "Homologação": "T3b"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Verde",
+    "hex": "#4f6b3a",
+    "img": "/img/modelos/cforce-520l/cor-verde.webp"
+   },
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/cforce-520l/cor-preto.webp"
+   }
+  ],
+  "recorte": "/img/modelos/cforce-520l/recorte.webp",
+  "ambiente": "/img/modelos/cforce-520l/ambiente.webp",
+  "galeria": [
+   "/img/modelos/cforce-520l/galeria-1.webp",
+   "/img/modelos/cforce-520l/galeria-2.webp",
+   "/img/modelos/cforce-520l/galeria-3.webp",
+   "/img/modelos/cforce-520l/galeria-4.webp"
+  ],
+  "youtube": "-hzeKTGvLI8"
+ },
+ {
+  "slug": "c4-touring",
+  "nome": "C4 Touring",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE C4",
+  "ordem": 35,
+  "selo": "Novo modelo",
+  "slogan": "Pronto para cada desafio",
+  "descricao": [
+   "O C4 Touring foi desenvolvido para quem procura um ATV prático, robusto e confortável, tanto nas tarefas diárias como nos passeios de fim de semana. Com motor DOHC, transmissão CVT, direção assistida EPS e configuração para dois ocupantes, oferece uma condução equilibrada, segura e intuitiva em diferentes terrenos."
+  ],
+  "numeros": [
+   {
+    "valor": "409",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "33",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "461",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "17",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Direção assistida",
+   "Transmissão automática",
+   "2WD/4WD/Bloqueio diferencial dianteiro",
+   "Guincho Dianteiro",
+   "Iluminação LED",
+   "Bola de reboque",
+   "Travões de disco",
+   "17 litros de capacidade do depósito",
+   "Jantes de alumínio",
+   "Pneus 25”",
+   "Encosto de passageiro"
+  ],
+  "recursos": [
+   {
+    "titulo": "Novo motor, mais eficiente",
+    "texto": "Mais eficiente, mais suave e mais responsivo, o novo motor 192Q DOHC garante ao C4 e ao C4 Touring uma condução equilibrada, confortável e fiável, tanto no trabalho como no lazer.",
+    "img": "/img/modelos/c4-touring/recurso-1.webp"
+   },
+   {
+    "titulo": "Design GEN⁴",
+    "texto": "Inspirado na arquitetura neo-brutalista e na filosofia “less is more”, o novo C4 combina linhas limpas com luzes dot-matrix, criando uma identidade moderna, robusta e visualmente distinta.",
+    "img": "/img/modelos/c4-touring/recurso-2.webp"
+   },
+   {
+    "titulo": "Transmissão CVT de elevada eficiência",
+    "texto": "Afinada especificamente para utilização em ATV, a transmissão CVT garante uma resposta suave, eficiente e progressiva, adaptando-se facilmente tanto às tarefas diárias como aos momentos de lazer.",
+    "img": "/img/modelos/c4-touring/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, DOHC, 4 válvulas",
+    "Cilindrada": "409 cc",
+    "Potência do motor": "24.5 kW @ 7750 rpm",
+    "Refrigeração": "Líquida",
+    "Alimentação": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio de Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo triângulo",
+    "Curso da Suspensão": "Frente: 210mm\nTraseira: 235mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 25×8.00-12\nTraseira: 25×10.00-12",
+    "Capacidade do Depósito / Reserva": "17 L / 2 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2355 × 1175 × 1360 mm",
+    "Distância entre Eixos": "1480 mm",
+    "Distância ao Solo": "273 mm",
+    "Peso em Ordem de Marcha": "461 kg",
+    "Capacidade de Reboque com e sem travão": "612kg / 260kg"
+   },
+   "Acessórios e outros": {
+    "Grelha": "Sim",
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Proteção de mãos": "Não",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "2",
+    "Homologação": "T3b"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/c4-touring/cor-cinzento.webp"
+   },
+   {
+    "nome": "Verde",
+    "hex": "#4f6b3a",
+    "img": "/img/modelos/c4-touring/cor-verde.webp"
+   }
+  ],
+  "recorte": "/img/modelos/c4-touring/recorte.webp",
+  "ambiente": "/img/modelos/c4-touring/ambiente.webp",
+  "galeria": [
+   "/img/modelos/c4-touring/galeria-1.webp",
+   "/img/modelos/c4-touring/galeria-2.webp",
+   "/img/modelos/c4-touring/galeria-3.webp",
+   "/img/modelos/c4-touring/galeria-4.webp"
+  ],
+  "youtube": "HadL8cZJoHQ"
+ },
+ {
+  "slug": "cforce-450l",
+  "nome": "CFORCE 450L",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE 450",
+  "ordem": 36,
+  "selo": null,
+  "slogan": "Que comece a aventura",
+  "descricao": [
+   "O CFORCE 450L é perfeito para quem quer entrar no mundo off-road podendo levar um passageiro consigo.",
+   "A qualidade que apresenta começa na sua estrutura de aço de alta resistência, combinadada com um motor monocilíndrico SOHC com refrigeração líquida, transmissão CVTech e EPS."
+  ],
+  "numeros": [
+   {
+    "valor": "400",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "28",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "446",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "18",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Direção assistida",
+   "Transmissão automática CVTech",
+   "2WD/4WD/Diferencial autoblocante Frontal",
+   "Guincho Dianteiro",
+   "Iluminação LED",
+   "Bola de reboque",
+   "Travões de disco",
+   "18 litros de capacidade do depósito",
+   "Proteção de mãos",
+   "Jantes de alumínio",
+   "Pneus 25”",
+   "Encosto de passageiro"
+  ],
+  "recursos": [
+   {
+    "titulo": "Chassis 30% mais resistente e 10% mais leve",
+    "img": "/img/modelos/cforce-450l/recurso-1.webp"
+   },
+   {
+    "titulo": "Assentos mais confortáveis",
+    "img": "/img/modelos/cforce-450l/recurso-2.webp"
+   },
+   {
+    "titulo": "21% capacidade depósito de combustível",
+    "img": "/img/modelos/cforce-450l/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, 4 Tempos, SOHC, 4 válvulas",
+    "Cilindrada": "400 cc",
+    "Potência do motor": "20.7 kW @ 7250 rpm",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio de Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo triângulo",
+    "Curso da Suspensão": "Frente: 190mm\nTraseira: 225mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 25×8.00-12\nTraseira: 25×10.00-12",
+    "Capacidade do Depósito / Reserva": "18 L / 2 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2387 × 1157 × 1400 mm",
+    "Distância entre Eixos": "1465 mm",
+    "Distância ao Solo": "250 mm",
+    "Peso em Ordem de Marcha": "446 kg",
+    "Capacidade de Reboque com e sem travão": "612kg / 320kg"
+   },
+   "Acessórios e outros": {
+    "Grelha": "Sim",
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Proteção de mãos": "Sim",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "2",
+    "Homologação": "T3b"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/cforce-450l/cor-preto.webp"
+   },
+   {
+    "nome": "Verde",
+    "hex": "#4f6b3a",
+    "img": "/img/modelos/cforce-450l/cor-verde.webp"
+   }
+  ],
+  "recorte": "/img/modelos/cforce-450l/recorte.webp",
+  "ambiente": "/img/modelos/cforce-450l/ambiente.webp",
+  "galeria": [
+   "/img/modelos/cforce-450l/galeria-1.webp",
+   "/img/modelos/cforce-450l/galeria-2.webp",
+   "/img/modelos/cforce-450l/galeria-3.webp",
+   "/img/modelos/cforce-450l/galeria-4.webp"
+  ],
+  "youtube": "-hzeKTGvLI8"
+ },
+ {
+  "slug": "c4",
+  "nome": "C4",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE C4",
+  "ordem": 37,
+  "selo": "Novo modelo",
+  "slogan": "Compacto, mas sem limites.",
+  "descricao": [
+   "O C4 foi desenvolvido para quem procura um ATV prático, robusto e confortável, tanto nas tarefas diárias como nos passeios de fim de semana. Com motor DOHC, transmissão CVT, direção assistida EPS e configuração para dois ocupantes, oferece uma condução equilibrada, segura e intuitiva em diferentes terrenos."
+  ],
+  "numeros": [
+   {
+    "valor": "409",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "33",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "450",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "17",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Direção assistida",
+   "Transmissão automática",
+   "2WD/4WD/Bloqueio diferencial dianteiro",
+   "Guincho Dianteiro",
+   "Iluminação LED",
+   "Bola de reboque",
+   "Travões de disco",
+   "17 litros de capacidade do depósito",
+   "Jantes de ferro",
+   "Pneus 24”"
+  ],
+  "recursos": [
+   {
+    "titulo": "Novo motor, mais eficiente",
+    "texto": "Mais eficiente, mais suave e mais responsivo, o novo motor 192Q DOHC garante ao C4 e ao C4 Touring uma condução equilibrada, confortável e fiável, tanto no trabalho como no lazer.",
+    "img": "/img/modelos/c4/recurso-1.webp"
+   },
+   {
+    "titulo": "Design GEN⁴",
+    "texto": "Inspirado na arquitetura neo-brutalista e na filosofia “less is more”, o novo C4 combina linhas limpas com luzes dot-matrix, criando uma identidade moderna, robusta e visualmente distinta.",
+    "img": "/img/modelos/c4/recurso-2.webp"
+   },
+   {
+    "titulo": "Transmissão CVT de elevada eficiência",
+    "texto": "Afinada especificamente para utilização em ATV, a transmissão CVT garante uma resposta suave, eficiente e progressiva, adaptando-se facilmente tanto às tarefas diárias como aos momentos de lazer.",
+    "img": "/img/modelos/c4/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, DOHC, 4 válvulas",
+    "Cilindrada": "409 cc",
+    "Potência do motor": "24.5 kW @ 7750 rpm",
+    "Refrigeração": "Líquida",
+    "Alimentação": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio de Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo triângulo",
+    "Curso da Suspensão": "Frente: 210mm\nTraseira: 235mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 24×8.00-12\nTraseira: 24×10.00-12",
+    "Capacidade do Depósito / Reserva": "17 L / 2 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2165 × 1175 × 1265 mm",
+    "Distância entre Eixos": "1290 mm",
+    "Distância ao Solo": "273 mm",
+    "Peso em Ordem de Marcha": "450 kg",
+    "Capacidade de Reboque com e sem travão": "612kg / 260kg"
+   },
+   "Acessórios e outros": {
+    "Grelha": "Sim",
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Proteção de mãos": "Não",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "2",
+    "Homologação": "T3b"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Verde",
+    "hex": "#4f6b3a",
+    "img": "/img/modelos/c4/cor-verde.webp"
+   }
+  ],
+  "recorte": "/img/modelos/c4/recorte.webp",
+  "ambiente": "/img/modelos/c4/ambiente.webp",
+  "galeria": [
+   "/img/modelos/c4/galeria-1.webp",
+   "/img/modelos/c4/galeria-2.webp",
+   "/img/modelos/c4/galeria-3.webp",
+   "/img/modelos/c4/galeria-4.webp"
+  ],
+  "youtube": "HadL8cZJoHQ"
+ },
+ {
+  "slug": "cforce-450s",
+  "nome": "CFORCE 450S",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE 450",
+  "ordem": 38,
+  "selo": null,
+  "slogan": "Para Trabalho ou lazer",
+  "descricao": [
+   "Ao criar o CFORCE 450S, a CFMOTO atendeu a todos aqueles que procuram um ATV de médio porte, acessível, robusto e de fácil condução.",
+   "A qualidade que apresenta começa na sua estrutura de aço de alta resistência, combinada com um motor SOHC, monocilíndrico com refrigeração líquida e transmissão CVTech."
+  ],
+  "numeros": [
+   {
+    "valor": "400",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "28",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "434",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "18",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Transmissão automática CVTech",
+   "2WD/4WD/Diferencial autoblocante Frontal",
+   "Guincho Dianteiro",
+   "Iluminação LED",
+   "Bola de reboque",
+   "Travões de disco",
+   "Jantes de ferro",
+   "Pneus 24”",
+   "18 litros de capacidade do depósito"
+  ],
+  "recursos": [
+   {
+    "titulo": "25% redução da temperatura do motor",
+    "img": "/img/modelos/cforce-450s/recurso-1.webp"
+   },
+   {
+    "titulo": "25% aumento do curso de suspensão",
+    "img": "/img/modelos/cforce-450s/recurso-2.webp"
+   },
+   {
+    "titulo": "Força de 730 kg de rebocagem",
+    "img": "/img/modelos/cforce-450s/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, 4 Tempos, SOHC, 4 válvulas",
+    "Cilindrada": "400 cc",
+    "Potência do motor": "20.7 kW @ 7250 rpm",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio de Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo triângulo",
+    "Curso da Suspensão": "Frente: 190mm\nTraseira: 225mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: AT24×8.00-12\nTraseira: AT24×10.00-12",
+    "Capacidade do Depósito / Reserva": "18 L / 2 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2186 × 1125 × 1150 mm",
+    "Distância entre Eixos": "1260 mm",
+    "Distância ao Solo": "250 mm",
+    "Peso em Ordem de Marcha": "434 kg",
+    "Capacidade de Reboque com e sem travão": "612kg / 320kg"
+   },
+   "Acessórios e outros": {
+    "Grelha": "Sim",
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Proteção de mãos": "Não",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Não",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "2",
+    "Homologação": "T3b"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Verde",
+    "hex": "#4f6b3a",
+    "img": "/img/modelos/cforce-450s/cor-verde.webp"
+   }
+  ],
+  "recorte": "/img/modelos/cforce-450s/recorte.webp",
+  "ambiente": "/img/modelos/cforce-450s/ambiente.webp",
+  "galeria": [
+   "/img/modelos/cforce-450s/galeria-1.webp",
+   "/img/modelos/cforce-450s/galeria-2.webp",
+   "/img/modelos/cforce-450s/galeria-3.webp",
+   "/img/modelos/cforce-450s/galeria-4.webp"
+  ],
+  "youtube": "-hzeKTGvLI8"
+ },
+ {
+  "slug": "cforce-110",
+  "nome": "CFORCE 110",
+  "categoria": "atv",
+  "familia": "CFORCE",
+  "serie": "CFORCE 110 (Youth)",
+  "ordem": 39,
+  "selo": null,
+  "slogan": "Dá mais power à diversão",
+  "descricao": [
+   "Os miudos já não têm que esperar mais! Chegou o tão aguardado ATV, destinado para os mais jovens que começam a sua jornada no mundo das quatro rodas de forma divertida e segura. De visual desportivo, excelente performance, travões de discos, e todo um portefólio de características de segurança, o CFORCE 110 eleva a fasquia do segmento de ATV’s para os mais jovens."
+  ],
+  "numeros": [
+   {
+    "valor": "110",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "130",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "6,4",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Correia de proteção magnética",
+   "Bandeira de segurança",
+   "Limitador de velocidade",
+   "Visual e desempenho desportivo",
+   "Iluminação LED",
+   "Painel LCD de 3,5 polegadas",
+   "Travões de disco",
+   "6,4 litros de capacidade do depósito",
+   "Arranque elétrico",
+   "Injeção eletrónica de combustível",
+   "Curso da suspensão até 157mm"
+  ],
+  "recursos": [
+   {
+    "titulo": "Segurança e diversão lado-a-lado",
+    "texto": "As características de segurança incluem uma correia de proteção magnética, limitador de velocidade ajustável, luzes LED e bandeira de segurança.",
+    "img": "/img/modelos/cforce-110/recurso-1.webp"
+   },
+   {
+    "titulo": "Travões de disco hidráulicos",
+    "texto": "O CFORCE 110 está equipado com travões de disco hidráulicos para um poder superior de travagem.",
+    "img": "/img/modelos/cforce-110/recurso-2.webp"
+   },
+   {
+    "titulo": "Longas horas de diversão",
+    "texto": "Tanque de combustível com capacidade de 6,4 litros permite longas horas de diversão.",
+    "img": "/img/modelos/cforce-110/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilindro, 4 tempos, SOHC",
+    "Cilindrada": "110 cc",
+    "Sistema de Injeção": "EFI",
+    "Ignição": "Arranque elétrico",
+    "Transmissão": "Corrente",
+    "Tipo de Transmissão": "Multi-disco em banho de óleo"
+   },
+   "Chassis": {
+    "Suspensão dianteira": "Suspensão independente com braço duplo",
+    "Suspensão traseira": "Mono-amortecedor",
+    "Travões": "Disco hidráulicos",
+    "Pneus": "Frente: AT19×6.00-10 / Traseira: AT18×9.00-8",
+    "Capacidade do Depósito": "6,4 l"
+   },
+   "Dimensões e peso": {
+    "Comprimento": "1483 mm",
+    "Largura": "943 mm",
+    "Altura": "925 mm",
+    "Distância entre Eixos": "1020 mm",
+    "Distância ao solo": "110 mm",
+    "Altura do assento": "685 mm",
+    "Peso em ordem de marcha": "130 kg",
+    "Capacidade de carga": "70 kg"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/cforce-110/cor-azul.webp"
+   },
+   {
+    "nome": "Vermelho",
+    "hex": "#c4161c",
+    "img": "/img/modelos/cforce-110/cor-vermelho.webp"
+   }
+  ],
+  "recorte": "/img/modelos/cforce-110/recorte.webp",
+  "ambiente": "/img/modelos/cforce-110/ambiente.webp",
+  "galeria": [
+   "/img/modelos/cforce-110/galeria-1.webp",
+   "/img/modelos/cforce-110/galeria-2.webp",
+   "/img/modelos/cforce-110/galeria-3.webp",
+   "/img/modelos/cforce-110/galeria-4.webp"
+  ],
+  "youtube": "eAaGz0LBFlI"
+ },
+ {
+  "slug": "u10-xl-pro",
+  "nome": "U10 XL PRO",
+  "categoria": "utv",
+  "familia": "UFORCE",
+  "serie": "UFORCE U10",
+  "ordem": 40,
+  "selo": null,
+  "slogan": "Um novo capítulo",
+  "descricao": [
+   "O U10 XL PRO chegou para redefinir o que um UTV de alta performance pode ser, inaugurando um novo capítulo para a família UFORCE.",
+   "Mais potente, capaz e avançado do que os seus antecessores, este modelo apresenta um interior completamente renovado, com tecnologia de ponta, um design exterior aprimorado e uma extensa lista de funcionalidades de série, tornando-o ideal para trabalho e lazer."
+  ],
+  "numeros": [
+   {
+    "valor": "998",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "90",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "1043",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "45",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Motor tricilíndrico de 12 válvulas",
+   "Lotação para 6 pessoas",
+   "Seleção de mudanças eletrónico",
+   "Guincho elétrico de origem",
+   "Iluminação LED",
+   "Écran touch de 8″",
+   "Jantes em alumínio de 14″ equipadas com pneus de 30″",
+   "Caixa de carga elétrica",
+   "Chave com sistema NFC e arranque por botão",
+   "Sistema auxiliar de controlo eletrónico em descida"
+  ],
+  "recursos": [
+   {
+    "titulo": "Espaço a dobrar",
+    "texto": "Preparado para 6 pessoas e ainda espaço de carga.",
+    "img": "/img/modelos/u10-xl-pro/recurso-1.webp"
+   },
+   {
+    "titulo": "Máxima performance",
+    "texto": "O novo motor com sistema de VVT, permite um ajuste perfeito entre potência e controlo ao condutor.",
+    "img": "/img/modelos/u10-xl-pro/recurso-2.webp"
+   },
+   {
+    "titulo": "Perfeição nos detalhes",
+    "texto": "Os bancos em pele sistema de som incorporado de série.",
+    "img": "/img/modelos/u10-xl-pro/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "3 cilindros, 4 Tempos, 12 válvulas",
+    "Cilindrada": "998 cc",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "EFI",
+    "Potência máxima": "66kW @ 7250 rpm",
+    "Transmissão": "2WD/4WD/Bloqueio Diferencial Dianteiro e Traseiro",
+    "Tipo de Transmissão": "CVT OMNIDRIVE™"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, Duplo triângulo\nTraseira: Suspensão independente, Duplo triângulo",
+    "Curso da Suspensão": "Frente: 280mm\nTraseira: 260mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 29 × 9.00-14\nTraseira: 29 × 11.00-14",
+    "Capacidade do Depósito / Reserva": "45 L / 5 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "3897 × 1645 × 1945 mm",
+    "Distância entre Eixos": "2860 mm",
+    "Distância ao Solo": "330 mm",
+    "Peso em Ordem de Marcha": "1043 kg",
+    "Capacidade de Reboque com e sem travão": "800 kg / 600 kg"
+   },
+   "Acessórios e outros": {
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Homologação": "T1b",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel Multimedia 8”",
+    "Lotação": "6"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Vermelho",
+    "hex": "#c4161c",
+    "img": "/img/modelos/u10-xl-pro/cor-vermelho.webp"
+   },
+   {
+    "nome": "Verde",
+    "hex": "#4f6b3a",
+    "img": "/img/modelos/u10-xl-pro/cor-verde.webp"
+   }
+  ],
+  "recorte": "/img/modelos/u10-xl-pro/recorte.webp",
+  "ambiente": "/img/modelos/u10-xl-pro/ambiente.webp",
+  "galeria": [
+   "/img/modelos/u10-xl-pro/galeria-1.webp",
+   "/img/modelos/u10-xl-pro/galeria-2.webp",
+   "/img/modelos/u10-xl-pro/galeria-3.webp",
+   "/img/modelos/u10-xl-pro/galeria-4.webp"
+  ],
+  "youtube": "z5KWuacrw1E"
+ },
+ {
+  "slug": "u10-pro-highland",
+  "nome": "U10 PRO Highland",
+  "categoria": "utv",
+  "familia": "UFORCE",
+  "serie": "UFORCE U10",
+  "ordem": 41,
+  "selo": null,
+  "slogan": "Um novo capítulo",
+  "descricao": [
+   "O U10 PRO chegou para redefinir o que um UTV de alta performance pode ser, inaugurando um novo capítulo para a família UFORCE.",
+   "Mais potente, capaz e avançado do que os seus antecessores, este modelo apresenta um interior completamente renovado, com tecnologia de ponta, um design exterior aprimorado e uma extensa lista de funcionalidades de série, tornando-o ideal para trabalho e lazer."
+  ],
+  "numeros": [
+   {
+    "valor": "998",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "90",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "1045",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "45",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Cabine completa climatizada",
+   "Lotação para 3 pessoas",
+   "Motor d e3 cilindros de 12 válvulas e 88cv",
+   "Vidros Elétricos",
+   "Guincho elétrico de origem",
+   "Iluminação LED",
+   "Écran touch de 8″",
+   "Jantes em alumínio de 14″ equipadas com pneus de 30″",
+   "Caixa de carga Elétrica",
+   "Chave com sistema NFC e arranque por botão",
+   "Sistema auxiliar de controlo eletrónico em descida"
+  ],
+  "recursos": [
+   {
+    "titulo": "Máximo Conforto",
+    "texto": "A sua cabine completa proporciona-lhe o máximo de conforto para um dia de trabalho.",
+    "img": "/img/modelos/u10-pro-highland/recurso-1.webp"
+   },
+   {
+    "titulo": "Motor Potente",
+    "texto": "Equipado com o novo motor de 3 cilindros e 88 cv, oferece potência para todos os desafios.",
+    "img": "/img/modelos/u10-pro-highland/recurso-2.webp"
+   },
+   {
+    "titulo": "Tecnologia e inovação",
+    "texto": "Caixa de carga eléctrica e vidro frontal elétrico.",
+    "img": "/img/modelos/u10-pro-highland/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "3 cilindros, 4 Tempos, 12 válvulas",
+    "Cilindrada": "998 cc",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "EFI",
+    "Potência motor": "66kW @ 7250 rpm",
+    "Transmissão": "2WD/4WD/Bloqueio Diferencial Dianteiro e Traseiro",
+    "Tipo de Transmissão": "CVT OMNIDRIVE™"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, Duplo triângulo\nTraseira: Suspensão independente, Duplo triângulo",
+    "Curso da Suspensão": "Frente: 280mm\nTraseira: 260mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 29 × 9.00-14 (jantes alumínio)\nTraseira: 29 × 11.00-14 (jantes alumínio)",
+    "Capacidade do Depósito / Reserva": "45 L / 5 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "3097 × 1645 × 1945 mm",
+    "Distância entre Eixos": "2060 mm",
+    "Distância ao Solo": "330 mm",
+    "Peso em Ordem de Marcha": "1045 kg",
+    "Capacidade de Reboque com e sem travão": "1134 kg / 680 kg"
+   },
+   "Acessórios e outros": {
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Homologação": "T1b",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel Multimedia 8”",
+    "Lotação": "3"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Vermelho",
+    "hex": "#c4161c",
+    "img": "/img/modelos/u10-pro-highland/cor-vermelho.webp"
+   },
+   {
+    "nome": "Verde",
+    "hex": "#4f6b3a",
+    "img": "/img/modelos/u10-pro-highland/cor-verde.webp"
+   }
+  ],
+  "recorte": "/img/modelos/u10-pro-highland/recorte.webp",
+  "ambiente": "/img/modelos/u10-pro-highland/ambiente.webp",
+  "galeria": [
+   "/img/modelos/u10-pro-highland/galeria-1.webp",
+   "/img/modelos/u10-pro-highland/galeria-2.webp",
+   "/img/modelos/u10-pro-highland/galeria-3.webp",
+   "/img/modelos/u10-pro-highland/galeria-4.webp"
+  ],
+  "youtube": "8jPaOXCEwJc"
+ },
+ {
+  "slug": "u10-pro",
+  "nome": "U10 PRO",
+  "categoria": "utv",
+  "familia": "UFORCE",
+  "serie": "UFORCE U10",
+  "ordem": 42,
+  "selo": null,
+  "slogan": "Um novo capítulo",
+  "descricao": [
+   "O U10 PRO chegou para redefinir o que um UTV de alta performance pode ser, inaugurando um novo capítulo para a família UFORCE.",
+   "Mais potente, capaz e avançado do que os seus antecessores, este modelo apresenta um interior completamente renovado, com tecnologia de ponta, um design exterior aprimorado e uma extensa lista de funcionalidades de série, tornando-o ideal para trabalho e lazer."
+  ],
+  "numeros": [
+   {
+    "valor": "998",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "90",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "911",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "45",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Direção assistida progressiva",
+   "Transmissão automática CVTech",
+   "2 modos de condução: Normal e Work",
+   "2WD/4WD/4WD Lock",
+   "Guincho Dianteiro",
+   "Caixa de carga elétrica acionada através de botão no interior",
+   "Equipado com sistema de som",
+   "Capacidade para 3 passageiros",
+   "Iluminação LED",
+   "Bola de reboque",
+   "Travões de disco",
+   "45 litros de capacidade do depósito",
+   "Painel multimédia 8”",
+   "Sistema auxiliar de descidas",
+   "Diferencial traseiro",
+   "Chave com sistema NFC e arranque por botão",
+   "Tejadilho",
+   "Guiador ajustável",
+   "Jantes de alumínio 14”",
+   "Pneus 29”",
+   "Sistema de seleção de mudanças elétrico por botão"
+  ],
+  "recursos": [
+   {
+    "titulo": "Homologado para 3 lugares",
+    "img": "/img/modelos/u10-pro/recurso-1.webp"
+   },
+   {
+    "titulo": "Painel Multimédia 8”",
+    "img": "/img/modelos/u10-pro/recurso-2.webp"
+   },
+   {
+    "titulo": "Equipado com sistema de som",
+    "img": "/img/modelos/u10-pro/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "3 cilindros, 4 Tempos, 12 válvulas",
+    "Cilindrada": "998 cc",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "EFI",
+    "Potência motor": "66kW @ 7250 rpm",
+    "Transmissão": "2WD/4WD/Bloqueio Diferencial Dianteiro e Traseiro",
+    "Tipo de Transmissão": "CVT OMNIDRIVE™"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, Duplo triângulo\nTraseira: Suspensão independente, Duplo triângulo",
+    "Curso da Suspensão": "Frente: 280mm\nTraseira: 260mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 29 × 9.00-14 (jantes alumínio)\nTraseira: 29 × 11.00-14 (jantes alumínio)",
+    "Capacidade do Depósito / Reserva": "45 L / 5 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "3097 × 1645 × 1945 mm",
+    "Distância entre Eixos": "2060 mm",
+    "Distância ao Solo": "330 mm",
+    "Peso em Ordem de Marcha": "911 kg",
+    "Capacidade de Reboque com e sem travão": "1134 kg / 680 kg"
+   },
+   "Acessórios e outros": {
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Homologação": "T1b",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel Multimedia 8”",
+    "Lotação": "3"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Vermelho",
+    "hex": "#c4161c",
+    "img": "/img/modelos/u10-pro/cor-vermelho.webp"
+   },
+   {
+    "nome": "Verde",
+    "hex": "#4f6b3a",
+    "img": "/img/modelos/u10-pro/cor-verde.webp"
+   }
+  ],
+  "recorte": "/img/modelos/u10-pro/recorte.webp",
+  "ambiente": "/img/modelos/u10-pro/ambiente.webp",
+  "galeria": [
+   "/img/modelos/u10-pro/galeria-1.webp",
+   "/img/modelos/u10-pro/galeria-2.webp",
+   "/img/modelos/u10-pro/galeria-3.webp",
+   "/img/modelos/u10-pro/galeria-4.webp"
+  ],
+  "youtube": "8jPaOXCEwJc"
+ },
+ {
+  "slug": "uforce-800-xl",
+  "nome": "UFORCE 800 XL",
+  "categoria": "utv",
+  "familia": "UFORCE",
+  "serie": "UFORCE 800",
+  "ordem": 43,
+  "selo": null,
+  "slogan": "Versatilidade Sem Limites",
+  "descricao": [
+   "O UFORCE 800 XL combina potência e versatilidade num design compacto, provando que grande desempenho não precisa de grande tamanho. Com espaço para quatro passageiros e um motor robusto sempre pronto para a ação, este veículo adapta-se a qualquer desafio. Seja para um dia de lazer ou para enfrentar as exigências do trabalho, o UFORCE 800 XL está à altura da tarefa."
+  ],
+  "numeros": [
+   {
+    "valor": "800",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "64",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "850",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "40",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Lotação de 4 pessoas",
+   "Motor potente de 800 cc com 63,5 CV",
+   "2 Modos de Condução",
+   "Acelerador Eletrónico",
+   "Iluminação LED",
+   "Banco de condutor ajustável",
+   "Jantes de 14 ” e pneus de 27″",
+   "Novas suspensões com curso de 225mm",
+   "Depósito de gasolina de 40L",
+   "Guincho Frontal com capacidade de tração de 2000 kg",
+   "Tomada USB e Porta copos disponíveis"
+  ],
+  "recursos": [
+   {
+    "titulo": "Versátil",
+    "texto": "Combina potência e versatilidade num design compacto, provando que grande desempenho não precisa de grande tamanho. Com espaço para quatro passageiros e um motor robusto sempre pronto para a ação, este veículo adapta-se a qualquer desafio.",
+    "img": "/img/modelos/uforce-800-xl/recurso-1.webp"
+   },
+   {
+    "titulo": "Conforto",
+    "texto": "Com uma cabine espaçosa, assentos ajustáveis e diversos compartimentos de armazenamento. A caixa de carga com capacidade de até 300kg, oferece facilidade e eficiência para transporte e trabalho. Com sistemas avançados de segurança e conforto , como controlo de velocidade em descida e modos de\npotência ajustáveis, o Uforce 800 XL está pronto para enfrentar qualquer tarefa.",
+    "img": "/img/modelos/uforce-800-xl/recurso-2.webp"
+   },
+   {
+    "titulo": "Motor",
+    "texto": "O motor de 800cc oferece um desempenho de liderança na sua classe, com uma potência robusta. Integrado com um acelerador Ride-by-Wire, garante uma resposta precisa e é complementado por um sistema de escape aprimorado, proporcionando melhor desempenho. Este motor conta ainda com dois modos de potência, permitindo ajustar a performance de acordo com as preferências de condução.",
+    "img": "/img/modelos/uforce-800-xl/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Bicilindro em V, 4 Tempos, SOHC, 8 válvulas",
+    "Cilindrada": "800 cc",
+    "Potência do motor": "47 kW @ 7000 rpm",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "EFI",
+    "Transmissão": "2WD/4WD/Bloqueio Diferencial Dianteiro e Traseiro",
+    "Tipo de Transmissão": "CVT OMNIDRIVE™"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, Duplo triângulo\nTraseira: Suspensão independente, Duplo triângulo",
+    "Curso da Suspensão": "Frente: 230mm\nTraseira: 254mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 27×9.00-14\nTraseira: 27×11.00-14",
+    "Capacidade do Depósito / Reserva": "40 L / 5 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "3730 × 1525 × 2007 mm",
+    "Distância entre Eixos": "2770 mm",
+    "Distância ao Solo": "300 mm",
+    "Peso em Ordem de Marcha": "850 kg",
+    "Capacidade de Reboque com e sem travão": "800 kg / 500 kg"
+   },
+   "Acessórios e outros": {
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Homologação": "T1b",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "4"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Bege",
+    "hex": "#cbb796",
+    "img": "/img/modelos/uforce-800-xl/cor-bege.webp"
+   },
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/uforce-800-xl/cor-azul.webp"
+   },
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/uforce-800-xl/cor-preto.webp"
+   }
+  ],
+  "recorte": "/img/modelos/uforce-800-xl/recorte.webp",
+  "ambiente": "/img/modelos/uforce-800-xl/ambiente.webp",
+  "galeria": [
+   "/img/modelos/uforce-800-xl/galeria-1.webp",
+   "/img/modelos/uforce-800-xl/galeria-2.webp",
+   "/img/modelos/uforce-800-xl/galeria-3.webp",
+   "/img/modelos/uforce-800-xl/galeria-4.webp"
+  ],
+  "youtube": "cutB_i2Imcs"
+ },
+ {
+  "slug": "uforce-600",
+  "nome": "UFORCE 600",
+  "categoria": "utv",
+  "familia": "UFORCE",
+  "serie": "UFORCE 600",
+  "ordem": 44,
+  "selo": null,
+  "slogan": "Companheiro para todas as horas",
+  "descricao": [
+   "Equipado de origem com características como EPS progressivo, o UFORCE 600 é ainda mais potente, mais ágil e mais orientado para trabalho que o seu antecessor. Dá-te o poder para enfrentar o exterior com a confiança para acelerar o teu dia de trabalho, graças ao fácil manuseio, capacidade 4×4 e uma caixa de carga auxiliada por um sistema a gás. Em adição ao fantástico nível de extras padrão, o UFORCE 600 é também altamente personalizável graças ao enorme catálogo de acessórios CFMOTO.",
+   "O novo UFORCE 600 entrega poder, capacidade e versatilidade nas tuas mãos para redesenhares o teu caminho, seja trabalho ou lazer."
+  ],
+  "numeros": [
+   {
+    "valor": "580",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "41",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "695",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "35",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Direção assistida",
+   "Transmissão automática CVTech",
+   "2WD/4WD",
+   "Guincho Dianteiro",
+   "2 modos de condução",
+   "Iluminação LED",
+   "Bola de reboque",
+   "Travões de disco",
+   "35 litros de capacidade do depósito",
+   "Tejadilho",
+   "Assento do condutor ajustável",
+   "Jantes de alumínio 12”",
+   "Pneus 25”"
+  ],
+  "recursos": [
+   {
+    "titulo": "Caixa de carga resistente basculante",
+    "img": "/img/modelos/uforce-600/recurso-1.webp"
+   },
+   {
+    "titulo": "Equipado com guincho, bola de reboque e EPS",
+    "img": "/img/modelos/uforce-600/recurso-2.webp"
+   },
+   {
+    "titulo": "Tração 4×2/ 4×4 | 4×4 c/ bloqueio",
+    "img": "/img/modelos/uforce-600/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Monocilíndrico, 4 Tempos, SOHC, 4 válvulas",
+    "Cilindrada": "580 cc",
+    "Potência do motor": "30 kW @ 6750 rpm",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "EFI",
+    "Transmissão": "2WD/4WD",
+    "Tipo de Transmissão": "CVT"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo triângulo",
+    "Curso da Suspensão": "Frente: 230mm\nTraseira: 254mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 25×8.00-12\nTraseira: 25×10.00-12",
+    "Capacidade do Depósito / Reserva": "35 L / 5 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2920 × 1470 × 1895 mm",
+    "Distância entre Eixos": "1950 mm",
+    "Distância ao Solo": "270 mm",
+    "Peso em Ordem de Marcha": "695 kg",
+    "Capacidade de Reboque com e sem travão": "800 kg / 400 kg"
+   },
+   "Acessórios e outros": {
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Homologação": "T1b",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "2"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Azul",
+    "hex": "#1f4fa0",
+    "img": "/img/modelos/uforce-600/cor-azul.webp"
+   },
+   {
+    "nome": "Bege",
+    "hex": "#cbb796",
+    "img": "/img/modelos/uforce-600/cor-bege.webp"
+   }
+  ],
+  "recorte": "/img/modelos/uforce-600/recorte.webp",
+  "ambiente": "/img/modelos/uforce-600/ambiente.webp",
+  "galeria": [
+   "/img/modelos/uforce-600/galeria-1.webp",
+   "/img/modelos/uforce-600/galeria-2.webp",
+   "/img/modelos/uforce-600/galeria-3.webp",
+   "/img/modelos/uforce-600/galeria-4.webp"
+  ],
+  "youtube": "sR5T6ZUBNNs"
+ },
+ {
+  "slug": "u6-ev",
+  "nome": "U6 EV",
+  "categoria": "utv",
+  "familia": "UFORCE",
+  "serie": "UFORCE U6 (Electric)",
+  "ordem": 45,
+  "selo": null,
+  "slogan": "Um novo mundo",
+  "descricao": [
+   "O novo CFMOTO U6 EV oferece uma experiência intuitiva e envolvente, combinando inovação e sustentabilidade. Com carregamento programável via app e recuperação de energia cinética, garante mais autonomia sem preocupações. Os modos de condução ECO e NORMAL adaptam-se ao seu ritmo, enquanto o ecrã touch de 8’’ com Apple CarPlay proporciona uma ligação perfeita entre condutor e máquina."
+  ],
+  "numeros": [
+   {
+    "valor": "48",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "729",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   }
+  ],
+  "destaques": [
+   "Sistema auxiliar de controlo em subidas e descidas inclinadas",
+   "Autonomia média de 110Km (*)",
+   "Selector elétrico do modo de tração",
+   "Écran touch de 8″",
+   "Navegação Google por projeção",
+   "Chave com sistema NFC",
+   "Seletor elétrico de mudanças",
+   "Atualizações via OTA"
+  ],
+  "recursos": [
+   {
+    "titulo": "Eficiência Energética",
+    "texto": "A recuperação de energia cinética em descidas ou durante a travagem aumenta a eficiência e autonomia da bateria. Com dois modos de condução, ECO e NORMAL, o U6 EV adapta-se ao teu estilo de condução.",
+    "img": "/img/modelos/u6-ev/recurso-1.webp"
+   },
+   {
+    "titulo": "Homologação T1b",
+    "texto": "Chegou o CFMOTO U6 EV, o primeiro veículo utilitário elétrico da marca. Inovador e sustentável, permite controlar o carregamento pelo smartphone e aproveitar as tarifas mais vantajosas. O futuro da mobilidade já está aqui.",
+    "img": "/img/modelos/u6-ev/recurso-2.webp"
+   },
+   {
+    "titulo": "Equipamento de série",
+    "texto": "O ecrã tátil de 8 polegadas com Apple CarPlay oferece uma experiência conectada e intuitiva, permitindo ajustar parâmetros como a recuperação de energia e a direção assistida.",
+    "img": "/img/modelos/u6-ev/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "PMSM (Permanent Magnetic Synchronous Machine )",
+    "Capacidade Bateria": "50 Ah",
+    "Tipo de Bateria": "Lítio",
+    "Potência nominal do motor": "20 kW",
+    "Pico de potência máxima": "35 kW",
+    "Transmissão": "2WD/4WD/Bloqueio Diferencial Dianteiro e Traseiro"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, Duplo triângulo\nTraseira: Suspensão independente, Duplo triângulo",
+    "Curso da Suspensão": "Frente: 400 mm\nTraseira: 575 mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 25 × 8.00-12\nTraseira: 25 × 10.00-12",
+    "Combustível": "Elétrico"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "2925 × 1490 × 1913 mm",
+    "Distância entre Eixos": "1950 mm",
+    "Distância ao Solo": "270 mm",
+    "Peso em Ordem de Marcha": "729 kg",
+    "Peso Bruto": "1140 kg"
+   },
+   "Acessórios e outros": {
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Homologação": "T1b",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Instrumentação": "Painel Multimedia 8”",
+    "Lotação": "2"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/u6-ev/cor-cinzento.webp"
+   }
+  ],
+  "recorte": "/img/modelos/u6-ev/recorte.webp",
+  "ambiente": "/img/modelos/u6-ev/ambiente.webp",
+  "galeria": [
+   "/img/modelos/u6-ev/galeria-1.webp",
+   "/img/modelos/u6-ev/galeria-2.webp",
+   "/img/modelos/u6-ev/galeria-3.webp",
+   "/img/modelos/u6-ev/galeria-4.webp"
+  ],
+  "youtube": "yJViocq3ANI"
+ },
+ {
+  "slug": "zforce-950-sport-4",
+  "nome": "ZFORCE 950 Sport 4",
+  "categoria": "ssv",
+  "familia": "ZFORCE",
+  "serie": "ZFORCE 950",
+  "ordem": 46,
+  "selo": null,
+  "slogan": "Aventura em boa companhia",
+  "descricao": [
+   "O ZFORCE 950 SPORT 4 é primeiro da família ZFORCE com 4 lugares. Deixe os seus sentidos atingirem novos patamares e faça do hoje o seu momento. Sendo o mais recente veículo da gama de SSVs da CFMOTO, tem um design moderno e oferece um desempenho líder na sua categoria, componentes premium e um valor excepcional num pacote capaz, porém compacto."
+  ],
+  "numeros": [
+   {
+    "valor": "963",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "85",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "870",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "37",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Direção assistida",
+   "Transmissão automática CVTech",
+   "2WD/4WD/Diferencial autoblocante Frontal",
+   "Caixa de Carga",
+   "Guincho Dianteiro",
+   "Iluminação LED",
+   "Bola de reboque",
+   "Travões de disco",
+   "Tejadilho",
+   "37 litros de capacidade do depósito",
+   "Painel TFT multifunções",
+   "Portas",
+   "Banco do condutor ajustável",
+   "Jantes de alumínio 14”",
+   "Pneus 27”"
+  ],
+  "recursos": [
+   {
+    "titulo": "Poderoso Motor bicilíndrico com 963 cc de cilindrada e 84 cv de potência",
+    "img": "/img/modelos/zforce-950-sport-4/recurso-1.webp"
+   },
+   {
+    "titulo": "Bancos impermeáveis com maior suporte lateral",
+    "img": "/img/modelos/zforce-950-sport-4/recurso-2.webp"
+   },
+   {
+    "titulo": "Agressivas Jantes de alumínio de 14 polegadas e pneus de 27 polegadas",
+    "img": "/img/modelos/zforce-950-sport-4/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Bicilíndrico em V, 4 Tempos, 8 válvulas c/ 84 cv",
+    "Cilindrada": "963 cc",
+    "Potência Máxima": "62.6 kW @ 7750 rpm",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo triângulo",
+    "Curso da Suspensão": "Frente: 307 mm\nTraseira: 334 mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 27×9.00-14\nTraseira: 27×11.00-14",
+    "Capacidade do Depósito": "37 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "4034 × 1524 × 1880 mm",
+    "Distância entre Eixos": "3048 mm",
+    "Distância ao Solo": "307 mm",
+    "Peso em Ordem de Marcha": "870 kg"
+   },
+   "Acessórios e outros": {
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Caixa Traseira": "Sim",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Homologação": "T1b",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "4"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/zforce-950-sport-4/cor-cinzento.webp"
+   },
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/zforce-950-sport-4/cor-preto.webp"
+   },
+   {
+    "nome": "Vermelho",
+    "hex": "#c4161c",
+    "img": "/img/modelos/zforce-950-sport-4/cor-vermelho.webp"
+   }
+  ],
+  "recorte": "/img/modelos/zforce-950-sport-4/recorte.webp",
+  "ambiente": "/img/modelos/zforce-950-sport-4/ambiente.webp",
+  "galeria": [
+   "/img/modelos/zforce-950-sport-4/galeria-1.webp",
+   "/img/modelos/zforce-950-sport-4/galeria-2.webp",
+   "/img/modelos/zforce-950-sport-4/galeria-3.webp",
+   "/img/modelos/zforce-950-sport-4/galeria-4.webp"
+  ],
+  "youtube": "0xRFx-bACGE"
+ },
+ {
+  "slug": "zforce-950-sport",
+  "nome": "ZFORCE 950 Sport",
+  "categoria": "ssv",
+  "familia": "ZFORCE",
+  "serie": "ZFORCE 950",
+  "ordem": 47,
+  "selo": null,
+  "slogan": "Desbrava o desconhecido",
+  "descricao": [
+   "O ZFORCE 950 SPORT é novo membro da gama de SSV’s da CFMOTO. Fiel ao design característico e vanguardista típico da gama, oferece um desempenho exemplar, componentes premium e um valor excepcional num formato ainda mais compacto. Eleva os teus sentidos a novos patamares, o teu momento é agora."
+  ],
+  "numeros": [
+   {
+    "valor": "963",
+    "unidade": "cc",
+    "rotulo": "Cilindrada"
+   },
+   {
+    "valor": "85",
+    "unidade": "cv",
+    "rotulo": "Potência máxima"
+   },
+   {
+    "valor": "675",
+    "unidade": "kg",
+    "rotulo": "Peso em ordem de marcha"
+   },
+   {
+    "valor": "37",
+    "unidade": "L",
+    "rotulo": "Depósito"
+   }
+  ],
+  "destaques": [
+   "Direção assistida",
+   "Transmissão automática CVTech",
+   "2WD/4WD/Diferencial autoblocante Frontal",
+   "Caixa de Carga",
+   "Guincho Dianteiro",
+   "Iluminação LED",
+   "Bola de reboque",
+   "Travões de disco",
+   "Tejadilho",
+   "37 litros de capacidade do depósito",
+   "Painel TFT multifunções",
+   "Portas",
+   "Banco do condutor ajustável"
+  ],
+  "recursos": [
+   {
+    "titulo": "Poderoso Motor bicilíndrico com 963 cc de cilindrada e 85 cv de potência",
+    "img": "/img/modelos/zforce-950-sport/recurso-1.webp"
+   },
+   {
+    "titulo": "Bancos impermeáveis com maior suporte lateral",
+    "img": "/img/modelos/zforce-950-sport/recurso-2.webp"
+   },
+   {
+    "titulo": "Jantes de alumínio de 14 polegadas e pneus de 29 polegadas (**)",
+    "texto": "(**) Apenas nas cores Cinzento e Vermelho.",
+    "img": "/img/modelos/zforce-950-sport/recurso-3.webp"
+   }
+  ],
+  "specs": {
+   "Motor": {
+    "Tipo": "Bicilíndrico em V, 4 Tempos, 8 válvulas",
+    "Cilindrada": "963 cc",
+    "Potência máxima": "62.6 kW @ 7750 rpm",
+    "Refrigeração": "Líquida",
+    "Sistema de Injeção": "Bosch EFI",
+    "Transmissão": "2WD/4WD/Bloqueio de Diferencial Dianteiro",
+    "Tipo de Transmissão": "CVT"
+   },
+   "Chassis": {
+    "Suspensão": "Frente: Suspensão independente, duplo triângulo\nTraseira: Suspensão independente, duplo triângulo",
+    "Curso da Suspensão": "Frente: 307 mm\nTraseira: 317.5 mm",
+    "Travões": "Travão hidráulico de disco nas 4 rodas + travão de parque",
+    "Pneus": "Frente: 27×9.00-14 (preto)\nFrente: 29×9.00-14 (vermelho e cinzento)\nTraseira: 27×11.00-14 (preto)\nTraseira: 29×11.00-14 (vermelho e cinzento)",
+    "Capacidade do Depósito": "37 L"
+   },
+   "Dimensões e peso": {
+    "Comprimento x Largura x Altura": "3065 × 1524 × 1870 mm",
+    "Distância entre Eixos": "2286 mm",
+    "Distância ao Solo": "305 mm",
+    "Peso em Ordem de Marcha": "675 kg"
+   },
+   "Acessórios e outros": {
+    "Guincho": "Sim",
+    "Bola de Reboque": "Sim",
+    "Caixa Traseira": "Sim",
+    "Iluminação": "LED",
+    "Direção Assistida (EPS)": "Sim",
+    "Homologação": "T1b",
+    "Instrumentação": "Painel TFT",
+    "Lotação": "2"
+   }
+  },
+  "cores": [
+   {
+    "nome": "Preto",
+    "hex": "#16181b",
+    "img": "/img/modelos/zforce-950-sport/cor-preto.webp"
+   },
+   {
+    "nome": "Cinzento",
+    "hex": "#7c8288",
+    "img": "/img/modelos/zforce-950-sport/cor-cinzento.webp"
+   },
+   {
+    "nome": "Vermelho",
+    "hex": "#c4161c",
+    "img": "/img/modelos/zforce-950-sport/cor-vermelho.webp"
+   }
+  ],
+  "recorte": "/img/modelos/zforce-950-sport/recorte.webp",
+  "ambiente": "/img/modelos/zforce-950-sport/ambiente.webp",
+  "galeria": [
+   "/img/modelos/zforce-950-sport/galeria-1.webp",
+   "/img/modelos/zforce-950-sport/galeria-2.webp",
+   "/img/modelos/zforce-950-sport/galeria-3.webp",
+   "/img/modelos/zforce-950-sport/galeria-4.webp"
+  ],
+  "youtube": "f_vikQ1P1Nk"
+ }
+]

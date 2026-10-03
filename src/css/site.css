@@ -1,0 +1,6 @@
+/* Folha principal: o Vite junta os @import num único ficheiro */
+@import './tokens.css';
+@import './base.css';
+@import './cabecalho.css';
+@import './secoes.css';
+@import './paginas.css';
