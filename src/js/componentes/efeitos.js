@@ -42,18 +42,34 @@ export function iniciarPreenchimento() {
   });
 }
 
-// Vídeos: tocam quando visíveis, param e voltam ao início quando saem
+// Vídeos: tocam quando visíveis, param e voltam ao início quando saem.
+// No modo de poupança de energia o iPhone recusa o autoplay, mesmo sem som. Os vídeos
+// recusados esperam pelo primeiro toque, que é um gesto do utilizador e destrava-os.
 export function iniciarVideos() {
   const videos = $$('video[data-video]');
   if (reduzido) {
     videos.forEach((v) => { v.removeAttribute('autoplay'); v.pause(); });
     return;
   }
+  const visiveis = new Set();
+  const recusados = new Set();
+  const tocar = (v) => v.play().then(() => recusados.delete(v), (e) => { if (e.name === 'NotAllowedError') recusados.add(v); });
   const io = new IntersectionObserver((entradas) => entradas.forEach(({ target: v, isIntersecting }) => {
-    if (isIntersecting) v.play().catch(() => {});
-    else { v.pause(); if (!v.hasAttribute('autoplay')) v.currentTime = 0; }
+    if (isIntersecting) { visiveis.add(v); tocar(v); }
+    else { visiveis.delete(v); v.pause(); if (!v.hasAttribute('autoplay')) v.currentTime = 0; }
   }), { threshold: 0.1 });
   videos.forEach((v) => io.observe(v));
+
+  // O play() tem de acontecer dentro do toque. Os que estão fora do ecrã param logo, já destravados.
+  const destravar = () => {
+    if (!recusados.size) return;
+    videos.forEach((v) => {
+      if (!v.paused) return;
+      if (visiveis.has(v)) tocar(v);
+      else { v.play().catch(() => {}); v.pause(); }
+    });
+  };
+  ['touchend', 'click', 'keydown'].forEach((t) => addEventListener(t, destravar, { passive: true }));
 }
 
 export function iniciarAncoras() {

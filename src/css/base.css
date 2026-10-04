@@ -15,6 +15,9 @@ body {
 }
 img, video, svg, iframe { display: block; max-width: 100%; }
 img { height: auto; }
+/* iPhone em poupança de energia: sem o botão de play nativo por cima dos vídeos de fundo */
+video[data-video]::-webkit-media-controls,
+video[data-video]::-webkit-media-controls-start-playback-button { display: none !important; -webkit-appearance: none; }
 a { color: inherit; text-decoration: none; }
 button, input, select, textarea { font: inherit; color: inherit; }
 button { cursor: pointer; }
