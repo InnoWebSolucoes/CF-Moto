@@ -127,7 +127,7 @@
   /* Pirâmide em degraus; o JavaScript anima a forma com o scroll */
   clip-path: polygon(5% 100%, 5% 62%, 15% 62%, 15% 54%, 25% 54%, 25% 46%, 35% 46%, 35% 38%, 65% 38%, 65% 46%, 75% 46%, 75% 54%, 85% 54%, 85% 62%, 95% 62%, 95% 100%);
 }
-.piramide__palco video { width: 100%; height: 100%; object-fit: cover; }
+.piramide__palco video, .piramide__palco img { width: 100%; height: 100%; object-fit: cover; }
 .piramide__palco::after { content: ''; position: absolute; inset: 0; background: rgb(0 0 0 / 0.45); opacity: var(--escurecer, 0); pointer-events: none; }
 .piramide__espaco { height: 100vh; }
 .marca__texto {

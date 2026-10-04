@@ -42,18 +42,33 @@ export function iniciarPreenchimento() {
   });
 }
 
-// Vídeos: tocam quando visíveis, param e voltam ao início quando saem.
-// No modo de poupança de energia o iPhone recusa o autoplay, mesmo sem som. Os vídeos
-// recusados esperam pelo primeiro toque, que é um gesto do utilizador e destrava-os.
+// Vídeos: tocam sempre que visíveis (também com "reduzir movimento"), param e voltam ao início quando saem.
+// No modo de poupança de energia o iPhone recusa tocar <video>, mesmo sem som. O Safari anima um MP4
+// posto numa <img> como um GIF, sem essa restrição: o vídeo recusado é trocado por essa imagem assim
+// que ela carrega (até lá fica o poster). Se a imagem falhar, o vídeo espera pelo primeiro toque.
 export function iniciarVideos() {
   const videos = $$('video[data-video]');
-  if (reduzido) {
-    videos.forEach((v) => { v.removeAttribute('autoplay'); v.pause(); });
-    return;
-  }
   const visiveis = new Set();
   const recusados = new Set();
-  const tocar = (v) => v.play().then(() => recusados.delete(v), (e) => { if (e.name === 'NotAllowedError') recusados.add(v); });
+  const comoImagem = (v) => {
+    if ('imagem' in v.dataset) return;
+    v.dataset.imagem = '';
+    const img = Object.assign(document.createElement('img'), { className: v.className, alt: '' });
+    img.setAttribute('aria-hidden', 'true');
+    img.addEventListener('load', () => {
+      if (!v.paused) return; // um toque entretanto pôs o vídeo a tocar
+      io.unobserve(v);
+      recusados.delete(v);
+      visiveis.delete(v);
+      v.replaceWith(img);
+    });
+    img.src = v.currentSrc || $('source', v).src;
+  };
+  const tocar = (v) => v.play().then(() => recusados.delete(v), (e) => {
+    if (e.name !== 'NotAllowedError') return;
+    recusados.add(v);
+    comoImagem(v);
+  });
   const io = new IntersectionObserver((entradas) => entradas.forEach(({ target: v, isIntersecting }) => {
     if (isIntersecting) { visiveis.add(v); tocar(v); }
     else { visiveis.delete(v); v.pause(); if (!v.hasAttribute('autoplay')) v.currentTime = 0; }
